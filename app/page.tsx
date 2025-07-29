@@ -656,51 +656,18 @@ export default function Home() {
                     </AdvancedTextAnimation>
                   </div>
                   <div className="space-y-4 mb-6">
-                    <div className="flex items-start hover-lift">
-                      <div className="caption text-white/60 mt-1 flex-shrink-0 font-mono mr-4">01</div>
-                      <div className="body-medium text-white/80 font-sans">
-                        <AdvancedTextAnimation delay={0.1} type="fade">
-                          <span className="text-highlight">Discovery & Conceptualization:</span> Brand analysis and
-                          concept development
-                        </AdvancedTextAnimation>
+                    {(t('methodologySteps') as string[]).map((step, index) => (
+                      <div key={index} className="flex items-start hover-lift">
+                        <div className="caption text-white/60 mt-1 flex-shrink-0 font-mono mr-4">
+                          {(index + 1).toString().padStart(2, "0")}
+                        </div>
+                        <div className="body-medium text-white/80 font-sans">
+                          <AdvancedTextAnimation delay={0.1 * (index + 1)} type="fade">
+                            {step}
+                          </AdvancedTextAnimation>
+                        </div>
                       </div>
-                    </div>
-                    <div className="flex items-start hover-lift">
-                      <div className="caption text-white/60 mt-1 flex-shrink-0 font-mono mr-4">02</div>
-                      <div className="body-medium text-white/80 font-sans">
-                        <AdvancedTextAnimation delay={0.2} type="fade">
-                          <span className="text-highlight">Design Development:</span> Visual identity creation and space
-                          planning
-                        </AdvancedTextAnimation>
-                      </div>
-                    </div>
-                    <div className="flex items-start hover-lift">
-                      <div className="caption text-white/60 mt-1 flex-shrink-0 font-mono mr-4">03</div>
-                      <div className="body-medium text-white/80 font-sans">
-                        <AdvancedTextAnimation delay={0.3} type="fade">
-                          <span className="text-highlight">Content Production:</span> Video creation and template
-                          development
-                        </AdvancedTextAnimation>
-                      </div>
-                    </div>
-                    <div className="flex items-start hover-lift">
-                      <div className="caption text-white/60 mt-1 flex-shrink-0 font-mono mr-4">04</div>
-                      <div className="body-medium text-white/80 font-sans">
-                        <AdvancedTextAnimation delay={0.4} type="fade">
-                          <span className="text-highlight">Technical Direction:</span> Space design and supplier
-                          coordination
-                        </AdvancedTextAnimation>
-                      </div>
-                    </div>
-                    <div className="flex items-start hover-lift">
-                      <div className="caption text-white/60 mt-1 flex-shrink-0 font-mono mr-4">05</div>
-                      <div className="body-medium text-white/80 font-sans">
-                        <AdvancedTextAnimation delay={0.5} type="fade">
-                          <span className="text-highlight">Final Delivery:</span> Complete brand package and technical
-                          documentation
-                        </AdvancedTextAnimation>
-                      </div>
-                    </div>
+                    ))}
                   </div>
                   <MagneticElement>
                     <button

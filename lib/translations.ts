@@ -164,12 +164,13 @@ export const translations = {
     methodologyTitle: "Production Timeline",
     methodologyDescription: "The project follows a structured timeline to ensure quality delivery:",
     methodologySteps: [
-      "Discovery & Conceptualization: Brand analysis and concept development (Week 1-2)",
-      "Design Development: Visual identity creation and technical specifications (Week 3-4)", 
-      "Prototyping: Material testing and functionality validation (Week 5-6)",
-      "Production Phase: Manufacturing of 300 units with quality control (Week 7-12)",
-      "Manual Integration: Ford manual incorporation into each product (Week 13)",
-      "Final Delivery: Complete shipment until end of September 2025 (Week 14)"
+      "Brand Discovery: Ford brand analysis and off-road concept development",
+      "Product Design: Technical jacket, sleeping bag and tent design development", 
+      "Material Research: High-performance materials selection and testing",
+      "Prototyping: Functional prototypes creation and validation",
+      "Manual Integration: Ford printed manual incorporation design",
+      "Production: Manufacturing of 300 units with quality control",
+      "Final Delivery: Complete shipment with documentation until September 2025"
     ],
     viewTerms: "View Terms",
     
@@ -382,12 +383,13 @@ export const translations = {
     methodologyTitle: "Cronograma de Produção",
     methodologyDescription: "O projeto segue um cronograma estruturado para garantir entrega de qualidade:",
     methodologySteps: [
-      "Discovery & Conceituação: Análise da marca e desenvolvimento do conceito (Semana 1-2)",
-      "Desenvolvimento do Design: Criação da identidade visual e especificações técnicas (Semana 3-4)",
-      "Prototipagem: Testes de materiais e validação de funcionalidade (Semana 5-6)",
-      "Fase de Produção: Fabricação das 300 unidades com controle de qualidade (Semana 7-12)",
-      "Integração do Manual: Incorporação do manual Ford em cada produto (Semana 13)",
-      "Entrega Final: Envio completo até final de setembro de 2025 (Semana 14)"
+      "Discovery da Marca: Análise da marca Ford e desenvolvimento do conceito off-road",
+      "Design dos Produtos: Desenvolvimento do design da jaqueta técnica, saco de dormir e barraca",
+      "Pesquisa de Materiais: Seleção e testes de materiais de alta performance",
+      "Prototipagem: Criação e validação de protótipos funcionais",
+      "Integração do Manual: Design da incorporação do manual impresso da Ford",
+      "Produção: Fabricação das 300 unidades com controle de qualidade",
+      "Entrega Final: Envio completo com documentação até setembro de 2025"
     ],
     viewTerms: "Ver Termos",
     
