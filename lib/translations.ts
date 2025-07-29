@@ -164,11 +164,12 @@ export const translations = {
     methodologyTitle: "Production Timeline",
     methodologyDescription: "The project follows a structured timeline to ensure quality delivery:",
     methodologySteps: [
-      "Design Development: Visual identity creation and technical specifications",
-      "Prototyping: Material testing and functionality validation", 
-      "Production: Manufacturing of 300 units with quality control",
-      "Manual Integration: Ford manual incorporation into each product",
-      "Delivery: Complete shipment until end of September 2025"
+      "Discovery & Conceptualization: Brand analysis and concept development (Week 1-2)",
+      "Design Development: Visual identity creation and technical specifications (Week 3-4)", 
+      "Prototyping: Material testing and functionality validation (Week 5-6)",
+      "Production Phase: Manufacturing of 300 units with quality control (Week 7-12)",
+      "Manual Integration: Ford manual incorporation into each product (Week 13)",
+      "Final Delivery: Complete shipment until end of September 2025 (Week 14)"
     ],
     viewTerms: "View Terms",
     
@@ -381,11 +382,12 @@ export const translations = {
     methodologyTitle: "Cronograma de Produção",
     methodologyDescription: "O projeto segue um cronograma estruturado para garantir entrega de qualidade:",
     methodologySteps: [
-      "Desenvolvimento do Design: Criação da identidade visual e especificações técnicas",
-      "Prototipagem: Testes de materiais e validação de funcionalidade",
-      "Produção: Fabricação das 300 unidades com controle de qualidade",
-      "Integração do Manual: Incorporação do manual Ford em cada produto",
-      "Entrega: Envio completo até final de setembro de 2025"
+      "Discovery & Conceituação: Análise da marca e desenvolvimento do conceito (Semana 1-2)",
+      "Desenvolvimento do Design: Criação da identidade visual e especificações técnicas (Semana 3-4)",
+      "Prototipagem: Testes de materiais e validação de funcionalidade (Semana 5-6)",
+      "Fase de Produção: Fabricação das 300 unidades com controle de qualidade (Semana 7-12)",
+      "Integração do Manual: Incorporação do manual Ford em cada produto (Semana 13)",
+      "Entrega Final: Envio completo até final de setembro de 2025 (Semana 14)"
     ],
     viewTerms: "Ver Termos",
     
