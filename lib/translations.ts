@@ -4,14 +4,14 @@ export const translations = {
     location: "BR - SP",
     
     // Header section
-    title: "PCF",
+    title: "FORD",
     subtitle: "X THE FORCE",
-    proposalTitle: "Proposal — Immersive Poetic Installation for Pacto Contra a Fome Dinner",
+    proposalTitle: "Proposal — Manual Ford Off-Road Project",
     scrollIndicator: "Scroll to explore",
     
     // Company info
     companyDescription: "©THE FORCE offers immersive design + visual experiences",
-    clientList: "for brands : Coca-Cola, Heineken, Budweiser, Itaú, Ambev, Santander, Stella Artois [...]",
+    clientList: "for brands : Ford, Coca-Cola, Heineken, Budweiser, Itaú, Ambev, Santander, Stella Artois [...]",
     phone: "+55.11.98624.3000",
     email: "contato@theforce.cc",
     locationFull: "São Paulo, Brazil",
@@ -32,86 +32,86 @@ export const translations = {
     
     // Project section
     projectLabel: "PROJECT",
-    projectTitle1: "IMMERSIVE",
-    projectTitle2: "POETIC",
-    projectTitle3: "INSTALLATION",
+    projectTitle1: "MANUAL FORD",
+    projectTitle2: "OFF-ROAD",
+    projectTitle3: "SURVIVAL KIT",
     
-    projectScopeTitle: "Client: Pacto Contra a Fome | Event: Anniversary Dinner Experience | Date: August 12, 2025 | Venue: Teatro Cultura Artística | Setup: August 11, 2025",
+    projectScopeTitle: "Client: Wieden+Kennedy | Contact: Patricia | Date: July 2025 | Delivery: End of September 2025 | Volume: 300 units",
     projectScope: [
-      "2 LED panels P2.9 (high resolution) - Dimensions: 10m x 3m each",
-      "1 curved LED panel P2.9 - Dimensions: 10m x 3m",
-      "Immersive sound system - 10 speakers + subwoofer",
-      "Audiovisual art direction with ethereal and organic movements",
-      "Abstract visualizations of food and textures",
-      "Original and sensitive soundtrack composed exclusively",
-      "Poetic narration in soft voice with reflective tone",
-      "Exclusive visual and sound content production"
+      "100 Technical Utility Jackets - Functional automotive manual aesthetic",
+      "100 Modular Sleeping Bags - High thermal performance, ultra-compact",
+      "100 Ultracompact Tents - Lightweight, foldable, quick assembly",
+      "Integration of original Ford manual as physical element",
+      "Technical development from prototyping to final delivery",
+      "Exclusive visual language with strong off-road connection",
+      "High-performance materials and intelligent finishes",
+      "Complete quality control and supplier coordination"
     ],
     
     // Creative concept
     creativeLabel: "CONCEPT",
-    creativeBrandTitle1: "SENSORY",
-    creativeBrandTitle2: "EXPERIENCE",
-    creativeBrandConceptTitle: '"Immersive Poetic Installation" - Enveloping Audiovisual Ambiance',
-    creativeBrandConceptIntro: "Proposal to create a sensory and poetic installation that:",
+    creativeBrandTitle1: "AUTOMOTIVE",
+    creativeBrandTitle2: "SURVIVAL",
+    creativeBrandConceptTitle: '"Manual Ford Off-Road" - Technical Utility Products',
+    creativeBrandConceptIntro: "Creation of three high-performance utility products that:",
     creativeBrandConcept: [
-      "SENSITIZES - Without weight, using artistic and symbolic language",
-      "PROVOKES - Reflection without exhaustion, with contemplative movements",
-      "INVOLVES - Sound, light and image in an elegant and emotional way",
-      "CONNECTS - The audience with the purpose of the night in a subtle way"
+      "ROBUSTNESS - Inspired by automotive manual technical aesthetics",
+      "INTELLIGENCE - Functional design with modular versatility",
+      "MOBILITY - Compact, lightweight, durable for hostile environments",
+      "INNOVATION - Aligns with Ford values of resistance and smart design"
     ],
     
     // Overview section
     overviewLabel: "01 / GENERAL CONCEPT",
-    overviewTitle1: "Immersive",
-    overviewTitle2: "Installation",
-    overviewDescription: "Creation of a sensory and poetic installation that will set the ambiance for the Pacto Contra a Fome Dinner space with an enveloping, elegant and emotional audiovisual language. The proposal seeks to sensitize without weight, provoke reflection without exhaustion, using sound, light and image in an artistic, subtle and symbolic way.",
+    overviewTitle1: "Off-Road",
+    overviewTitle2: "Survival Kit",
+    overviewDescription: "Inspired by the robustness, intelligence and versatility of an automotive technical manual — and aligned with Ford's innovative proposal — this project creates three high-performance utility products. More than promotional items, these are real, technical and functional equipment that translate the brand's values of resistance, innovation and mobility into physical pieces that directly dialogue with the off-road universe.",
     overviewFeatures: [
-      "Abstract visualizations of food and textures slowly dissolving in space",
-      "Original and sensitive soundtrack, composed exclusively for the event",
-      "Poetic narration in soft voice, integrating content emotionally"
+      "Ford's printed manual physically incorporated into products as survival guide",
+      "Integrated graphic design with practical functionality and technical aesthetics",
+      "Modular system allowing products to work together for maximum versatility"
     ],
     
     // Client info
     clientLabel: "Client",
-    clientName: "Pacto Contra a Fome",
+    clientName: "Wieden+Kennedy",
     studioLabel: "Studio", 
     studioName: "THE FORCE",
     
     // Deliverables section
-    deliverablesLabel: "02 / Elements",
-    deliverablesTitle: "Experience Elements",
-    deliverablesDescription: "Our immersive installation combines high-tech equipment with exclusive artistic content, creating a complete and enveloping sensory experience.",
+    deliverablesLabel: "02 / Products",
+    deliverablesTitle: "Survival Kit Products",
+    deliverablesDescription: "Three high-performance utility products with automotive manual aesthetic, designed for extreme conditions and aligned with Ford's off-road values.",
     
     deliverablesList: [
       {
-        title: "Equipment and Technical Structure",
-        description: "2 LED panels P2.9 (10m x 3m each) + 1 curved LED panel P2.9 (10m x 3m) + Immersive sound system with 10 speakers + subwoofer for fluid and enveloping sound coverage.",
+        title: "Technical Utility Jacket",
+        description: "Functional aesthetic inspired by automotive manuals. Structured hood, tactical velcros, functional carabiner. Compact, lightweight, durable and versatile — ideal for hostile environments. Ultra-compact folding capability.",
         number: "01"
       },
       {
-        title: "Immersive and Sensory Content",
-        description: "Audiovisual art direction with ethereal, organic and contemplative movements. Abstract visualizations of food and textures slowly dissolving in space.",
+        title: "Modular Sleeping Bag",
+        description: "Developed for high thermal performance and comfort. Minimalist and technical design with intelligent closure. Takes up very little space (fits in glove compartment). Possibility of coupling with jacket for modularity.",
         number: "02"
       },
       {
-        title: "Original Soundtrack",
-        description: "Original and sensitive soundtrack, composed exclusively for the event, creating a contemplative and emotional atmosphere.",
+        title: "Ultracompact Tent",
+        description: "Lightweight, foldable, easy-assembly structure. Technical design with field equipment inspired aesthetics. Exclusive visual communication with Ford graphic codes. Dimensions designed to fit in car trunk.",
         number: "03"
       },
       {
-        title: "Poetic Narration",
-        description: "Poetic narration in soft voice, integrating content emotionally, with reflective and sophisticated tone aligned with the purpose of the night.",
+        title: "Manual Integration",
+        description: "Ford's original printed manual physically integrated into products as both symbolic and functional element. Creates a true 'off-road survival guide' with integrated graphic design.",
         number: "04"
       },
       {
-        title: "Included Services",
-        description: "Equipment rental, transportation, assembly and disassembly, specialized technical team, technical and artistic direction, exclusive content production.",
+        title: "Technical Development",
+        description: "Complete technical and creative development of the project. High-performance materials research, prototyping, quality control, and supplier coordination until final delivery.",
         number: "05"
       },
       {
-        title: "Creative Support",
-        description: "Creative interface with the client team, ensuring alignment with the event's purpose and flawless installation execution.",
+        title: "Visual Identity",
+        description: "Unique authorial design and visual language with TheForce.cc signature. High visual impact aesthetics with strong connection to the off-road universe and Ford brand values.",
         number: "06"
       }
     ],
@@ -119,41 +119,41 @@ export const translations = {
     // Pricing section
     pricingLabel: "03 / Investment",
     pricingTitle: "Global Value",
-    pricingDescription: "Unique and transparent value that includes all equipment, technical services, exclusive content production and complete event support.",
+    pricingDescription: "Comprehensive value covering complete technical and creative development, high-performance material production, and delivery of all 300 units with quality guarantee.",
     
     // Proposals
-    proposal1Label: "IMMERSIVE POETIC INSTALLATION",
-    proposal1Title: "Pacto Contra a Fome Dinner",
+    proposal1Label: "MANUAL FORD OFF-ROAD PROJECT",
+    proposal1Title: "Complete Survival Kit",
     proposal1Items: [
-      "Audiovisual equipment (P2.9 LEDs and immersive sound system)",
-      "Transportation, assembly and disassembly of equipment",
-      "Specialized technical team for operation throughout the event",
-      "Technical and artistic direction of the installation",
-      "Exclusive visual and sound content production",
-      "Original soundtrack and poetic narration",
-      "Creative support in interface with client team"
+      "100 Technical Utility Jackets with automotive manual aesthetic",
+      "100 Modular Sleeping Bags with high thermal performance",
+      "100 Ultracompact Tents with quick assembly structure",
+      "Integration of Ford's printed manual into products",
+      "Complete technical and creative development",
+      "High-performance materials and intelligent finishes",
+      "Supplier coordination and quality control until delivery"
     ],
-    proposal1Price: "R$ 180,000.00",
+    proposal1Price: "R$ 1,036,000.00",
     
     proposal2Label: "TOTAL VALUE", 
-    proposal2Title: "One hundred and eighty thousand reais",
-    proposal2Subtitle: "Value already includes all taxes",
+    proposal2Title: "One million, thirty-six thousand reais",
+    proposal2Subtitle: "Value includes taxes (18%) and complete delivery",
     proposal2Items: [
-      "Audiovisual equipment",
-      "Transportation and assembly",
-      "Artistic and technical direction",
-      "Content production",
-      "Soundtrack and narration",
-      "Operation and support team during the event"
+      "Complete technical and creative development",
+      "Production of 300 high-performance items",
+      "Ford manual integration into products",
+      "Quality control and supplier coordination",
+      "Delivery until end of September 2025",
+      "TheForce.cc authorial design signature"
     ],
     proposal2Price: "Taxes included",
     
     // Investment options
     investmentOptionsTitle: "Value Includes",
-    investmentOption1: "Equipment and Transportation",
-    investmentOption2: "Content Production",
-    investmentComplete: "Technical Services",
-    completePackagePrice: "Artistic Direction",
+    investmentOption1: "100 Technical Jackets",
+    investmentOption2: "100 Sleeping Bags",
+    investmentComplete: "100 Ultracompact Tents",
+    completePackagePrice: "Complete Development",
     
     flexibleInvestmentTitle: "CONTACT",
     optionA: "The Force.cc",
@@ -161,33 +161,33 @@ export const translations = {
     completePackageLabel: "São Paulo – SP | @theforcex",
     
     // Development methodology
-    methodologyTitle: "Execution Schedule",
-    methodologyDescription: "The project will follow a structured schedule to ensure flawless execution:",
+    methodologyTitle: "Production Timeline",
+    methodologyDescription: "The project follows a structured timeline to ensure quality delivery:",
     methodologySteps: [
-      "Pre-Production: Development of artistic concept and exclusive content production",
-      "Technical Preparation: Equipment testing and audiovisual programming", 
-      "Assembly: August 11 - Installation of LED panels and sound system at the Theatre",
-      "Event: August 12 - Technical operation throughout the Dinner Experience",
-      "Disassembly: Complete equipment removal post-event"
+      "Design Development: Visual identity creation and technical specifications",
+      "Prototyping: Material testing and functionality validation", 
+      "Production: Manufacturing of 300 units with quality control",
+      "Manual Integration: Ford manual incorporation into each product",
+      "Delivery: Complete shipment until end of September 2025"
     ],
     viewTerms: "View Terms",
     
     // Terms section
     termsLabel: "04 / Agreement",
     termsTitle: "Terms & Conditions", 
-    termsDescription: "Our agreement ensures a clear understanding of the project scope, deliverables, and responsibilities.",
+    termsDescription: "Commercial terms ensure clear understanding of project scope, deliverables, and production timeline.",
     
     termsConditions: [
-      "The value of R$ 180,000.00 includes all equipment, technical services, content production and operation during the event.",
-      "Assembly will be carried out on August 11, 2025 at Teatro Cultura Artística.",
-      "The installation will function throughout the Dinner Experience on August 12, 2025.",
-      "Audiovisual content will be produced exclusively for this event, with artistic concept aligned with the purpose of the night.",
-      "The specialized technical team will remain on site throughout the duration of the event.",
-      "The copyright of the created content belongs to THE FORCE.",
-      "The signature of this proposal implies the contracting of the services described herein.",
+      "The value of R$ 1,036,000.00 includes complete technical and creative development and production of 300 items.",
+      "Production timeline: up to 45 working days after advance payment and final design approval.",
+      "Delivery scheduled until the end of September 2025 with quality guarantee.",
+      "Ford's printed manual will be physically integrated into products as technical and symbolic element.",
+      "Complete supplier coordination and quality control throughout production process.",
+      "The copyright of the visual identity and design belongs to THE FORCE.",
+      "The signature of this proposal implies contracting of the services described herein.",
       "Changes in concept or scope after approval may generate additional costs.",
-      "The value includes taxes in force on the date of issuance of this proposal.",
-      "Not included in the value: accommodation, meals or other costs not specified in this proposal."
+      "The value includes taxes (18%) in force on the date of issuance of this proposal.",
+      "Final delivery includes complete documentation and technical specifications for each product."
     ],
     
     // Contact information
@@ -202,7 +202,7 @@ export const translations = {
     // Approval
     approvalTitle: "Approval",
     location2: "São Paulo, Brazil",
-    client: "Pacto Contra a Fome",
+    client: "Wieden+Kennedy",
     theForceLabel: "THE FORCE",
     creativeDirector: "LUCIANO FERRAREZI - CREATIVE DIRECTOR",
     acceptProposal: "Accept Proposal",
@@ -221,14 +221,14 @@ export const translations = {
     location: "BR - SP",
     
     // Header section
-    title: "PCF",
+    title: "FORD",
     subtitle: "X THE FORCE",
-    proposalTitle: "Proposta — Instalação Imersiva Poética para o Jantar Pacto Contra a Fome",
+    proposalTitle: "Proposta — Projeto Manual Ford Off-Road",
     scrollIndicator: "Role para explorar",
     
     // Company info
     companyDescription: "©THE FORCE oferece experiências imersivas de design + visual",
-    clientList: "para marcas : Coca-Cola, Heineken, Budweiser, Itaú, Ambev, Santander, Stella Artois [...]",
+    clientList: "para marcas : Ford, Coca-Cola, Heineken, Budweiser, Itaú, Ambev, Santander, Stella Artois [...]",
     phone: "+55.11.98624.3000",
     email: "contato@theforce.cc", 
     locationFull: "São Paulo, Brasil",
@@ -249,86 +249,86 @@ export const translations = {
     
     // Project section  
     projectLabel: "PROJETO",
-    projectTitle1: "INSTALAÇÃO",
-    projectTitle2: "IMERSIVA",
-    projectTitle3: "POÉTICA",
+    projectTitle1: "MANUAL FORD",
+    projectTitle2: "OFF-ROAD",
+    projectTitle3: "KIT SOBREVIVÊNCIA",
     
-    projectScopeTitle: "Cliente: Pacto Contra a Fome | Evento: Jantar Experiência de Aniversário | Data: 12 de Agosto de 2025 | Local: Teatro Cultura Artística | Montagem: 11 de Agosto de 2025",
+    projectScopeTitle: "Cliente: Wieden+Kennedy | Contato: Patricia | Data: Julho de 2025 | Entrega: Final de Setembro de 2025 | Volume: 300 unidades",
     projectScope: [
-      "2 painéis de LED P2.9 (alta resolução) - Dimensões: 10m x 3m cada",
-      "1 painel de LED P2.9 curvo - Dimensões: 10m x 3m",
-      "Sistema de som imersivo - 10 caixas de som + subwoofer",
-      "Direção de arte audiovisual com movimentos etéreos e orgânicos",
-      "Visualizações abstratas de alimentos e texturas",
-      "Trilha sonora original e sensível composta exclusivamente",
-      "Narração poética em voz suave com tom reflexivo",
-      "Produção de conteúdo visual e sonoro exclusivo"
+      "100 Jaquetas Técnicas Utilitárias - Estética funcional de manual automotivo",
+      "100 Sacos de Dormir Modulares - Alto desempenho térmico, ultracompactos",
+      "100 Barracas Ultracompactas - Leves, dobráveis, montagem rápida",
+      "Integração do manual original da Ford como elemento físico",
+      "Desenvolvimento técnico completo da prototipagem à entrega final",
+      "Linguagem visual exclusiva com forte conexão off-road",
+      "Materiais de alta performance e acabamentos inteligentes",
+      "Controle de qualidade completo e coordenação de fornecedores"
     ],
     
     // Creative concept
     creativeLabel: "CONCEITO",
-    creativeBrandTitle1: "EXPERIÊNCIA",
-    creativeBrandTitle2: "SENSORIAL",
-    creativeBrandConceptTitle: '"Instalação Imersiva Poética" - Ambientação Audiovisual Envolvente',
-    creativeBrandConceptIntro: "Proposta de criação de uma instalação sensorial e poética que:",
+    creativeBrandTitle1: "SOBREVIVÊNCIA",
+    creativeBrandTitle2: "AUTOMOTIVA",
+    creativeBrandConceptTitle: '"Manual Ford Off-Road" - Produtos Técnicos Utilitários',
+    creativeBrandConceptIntro: "Criação de três produtos utilitários de alta performance que:",
     creativeBrandConcept: [
-      "SENSIBILIZA - Sem pesar, utilizando linguagem artística e simbólica",
-      "PROVOCA - Reflexão sem exaustão, com movimentos contemplativos",
-      "ENVOLVE - Som, luz e imagem de forma elegante e emocional",
-      "CONECTA - O público com o propósito da noite de forma sutil"
+      "ROBUSTEZ - Inspirados na estética técnica de manuais automotivos",
+      "INTELIGÊNCIA - Design funcional com versatilidade modular",
+      "MOBILIDADE - Compactos, leves, duráveis para ambientes hostis",
+      "INOVAÇÃO - Alinhados aos valores Ford de resistência e design inteligente"
     ],
     
     // Overview section
     overviewLabel: "01 / CONCEITO GERAL",
-    overviewTitle1: "Instalação",
-    overviewTitle2: "Imersiva",
-    overviewDescription: "Criação de uma instalação sensorial e poética que ambientará o espaço do Jantar Pacto Contra a Fome com uma linguagem audiovisual envolvente, elegante e emocional. A proposta busca sensibilizar sem pesar, provocar reflexão sem exaustão, utilizando som, luz e imagem de forma artística, sutil e simbólica.",
+    overviewTitle1: "Kit de",
+    overviewTitle2: "Sobrevivência Off-Road",
+    overviewDescription: "Inspirado pela robustez, inteligência e versatilidade de um manual técnico automotivo — e alinhado à proposta inovadora da Ford — este projeto cria três produtos utilitários de alta performance. Mais do que itens promocionais, tratam-se de equipamentos reais, técnicos e funcionais, que traduzem os valores de resistência, inovação e mobilidade da marca em peças físicas que dialogam diretamente com o universo off-road.",
     overviewFeatures: [
-      "Visualizações abstratas de alimentos e texturas se dissolvendo lentamente no espaço",
-      "Trilha sonora original e sensível, composta exclusivamente para o evento",
-      "Narração poética em voz suave, integrando o conteúdo de forma emocional"
+      "Manual impresso da Ford incorporado fisicamente aos produtos como guia de sobrevivência",
+      "Design gráfico integrado com funcionalidade prática e estética técnica",
+      "Sistema modular permitindo que os produtos funcionem juntos para máxima versatilidade"
     ],
     
     // Client info
     clientLabel: "Cliente",
-    clientName: "Pacto Contra a Fome", 
+    clientName: "Wieden+Kennedy", 
     studioLabel: "Estúdio",
     studioName: "THE FORCE",
     
     // Deliverables section
-    deliverablesLabel: "02 / Elementos",
-    deliverablesTitle: "Elementos da Experiência",
-    deliverablesDescription: "Nossa instalação imersiva combina equipamentos de alta tecnologia com conteúdo artístico exclusivo, criando uma experiência sensorial completa e envolvente.",
+    deliverablesLabel: "02 / Produtos",
+    deliverablesTitle: "Produtos do Kit de Sobrevivência",
+    deliverablesDescription: "Três produtos utilitários de alta performance com estética de manual automotivo, projetados para condições extremas e alinhados aos valores off-road da Ford.",
     
     deliverablesList: [
       {
-        title: "Equipamentos e Estrutura Técnica",
-        description: "2 painéis de LED P2.9 (10m x 3m cada) + 1 painel LED P2.9 curvo (10m x 3m) + Sistema de som imersivo com 10 caixas + subwoofer para cobertura sonora fluida e envolvente.",
+        title: "Jaqueta Técnica Utilitária",
+        description: "Estética funcional inspirada em manuais automotivos. Gorro estruturado, velcros táticos, mosquetão funcional. Compacta, leve, durável e versátil — ideal para ambientes hostis. Pode ser dobrada de forma ultra compacta.",
         number: "01"
       },
       {
-        title: "Conteúdo Imersivo e Sensorial",
-        description: "Direção de arte audiovisual com movimentos etéreos, orgânicos e contemplativos. Visualizações abstratas de alimentos e texturas se dissolvendo lentamente no espaço.",
+        title: "Saco de Dormir Modular",
+        description: "Desenvolvido para alto desempenho térmico e conforto. Design minimalista e técnico, com fechamento inteligente. Ocupa pouquíssimo espaço (cabe no porta-luvas). Possibilidade de uso acoplado à jaqueta para modularidade.",
         number: "02"
       },
       {
-        title: "Trilha Sonora Original",
-        description: "Trilha sonora original e sensível, composta exclusivamente para o evento, criando atmosfera contemplativa e emocional.",
+        title: "Barraca Ultracompacta",
+        description: "Estrutura leve, dobrável, de fácil montagem. Design técnico com estética inspirada em equipamentos de campo. Comunicação visual exclusiva com códigos gráficos da Ford. Dimensões projetadas para caber no porta-malas do carro.",
         number: "03"
       },
       {
-        title: "Narração Poética",
-        description: "Narração poética em voz suave, integrando o conteúdo de forma emocional, com tom reflexivo e sofisticado alinhado ao propósito da noite.",
+        title: "Integração do Manual",
+        description: "Manual impresso original da Ford fisicamente integrado aos produtos como elemento simbólico e funcional. Cria um verdadeiro 'guia de sobrevivência off-road' com design gráfico integrado.",
         number: "04"
       },
       {
-        title: "Serviços Inclusos",
-        description: "Locação de equipamentos, transporte, montagem e desmontagem, equipe técnica especializada, direção técnica e artística, produção de conteúdo exclusivo.",
+        title: "Desenvolvimento Técnico",
+        description: "Desenvolvimento técnico e criativo completo do projeto. Pesquisa de materiais de alta performance, prototipagem, controle de qualidade e coordenação de fornecedores até a entrega final.",
         number: "05"
       },
       {
-        title: "Acompanhamento Criativo",
-        description: "Interface criativa com a equipe do cliente, garantindo alinhamento com o propósito do evento e execução impecável da instalação.",
+        title: "Identidade Visual",
+        description: "Design autoral e linguagem visual única com assinatura TheForce.cc. Estética de alto impacto visual com forte conexão com o universo off-road e valores da marca Ford.",
         number: "06"
       }
     ],
@@ -336,41 +336,41 @@ export const translations = {
     // Pricing section
     pricingLabel: "03 / Investimento",
     pricingTitle: "Valor Global",
-    pricingDescription: "Valor único e transparente que inclui todos os equipamentos, serviços técnicos, produção de conteúdo exclusivo e acompanhamento completo do evento.",
+    pricingDescription: "Valor abrangente cobrindo desenvolvimento técnico e criativo completo, produção com materiais de alta performance e entrega de todas as 300 unidades com garantia de qualidade.",
     
     // Single proposal for the event
-    proposal1Label: "INSTALAÇÃO IMERSIVA POÉTICA",
-    proposal1Title: "Jantar Pacto Contra a Fome",
+    proposal1Label: "PROJETO MANUAL FORD OFF-ROAD",
+    proposal1Title: "Kit de Sobrevivência Completo",
     proposal1Items: [
-      "Equipamentos audiovisuais (LEDs P2.9 e sistema de som imersivo)",
-      "Transporte, montagem e desmontagem dos equipamentos", 
-      "Equipe técnica especializada para operação durante todo o evento",
-      "Direção técnica e artística da instalação",
-      "Produção de conteúdo visual e sonoro exclusivo",
-      "Trilha sonora e narração poética original",
-      "Acompanhamento criativo em interface com a equipe do cliente"
+      "100 Jaquetas Técnicas Utilitárias com estética de manual automotivo",
+      "100 Sacos de Dormir Modulares com alto desempenho térmico", 
+      "100 Barracas Ultracompactas com estrutura de montagem rápida",
+      "Integração do manual impresso da Ford aos produtos",
+      "Desenvolvimento técnico e criativo completo",
+      "Materiais de alta performance e acabamentos inteligentes",
+      "Coordenação de fornecedores e controle de qualidade até entrega"
     ],
-    proposal1Price: "R$ 180.000,00",
+    proposal1Price: "R$ 1.036.000,00",
     
     proposal2Label: "VALOR TOTAL",
-    proposal2Title: "Cento e oitenta mil reais", 
-    proposal2Subtitle: "Valor já inclui todos os impostos",
+    proposal2Title: "Um milhão, trinta e seis mil reais", 
+    proposal2Subtitle: "Valor inclui impostos (18%) e entrega completa",
     proposal2Items: [
-      "Equipamentos audiovisuais",
-      "Transporte e montagem",
-      "Direção artística e técnica",
-      "Produção de conteúdo",
-      "Trilha sonora e narração",
-      "Equipe de operação e suporte durante o evento"
+      "Desenvolvimento técnico e criativo completo",
+      "Produção de 300 itens de alta performance",
+      "Integração do manual Ford aos produtos",
+      "Controle de qualidade e coordenação de fornecedores",
+      "Entrega até final de setembro de 2025",
+      "Assinatura de design autoral TheForce.cc"
     ],
     proposal2Price: "Impostos inclusos",
     
     // Investment options
     investmentOptionsTitle: "Valor Inclui",
-    investmentOption1: "Equipamentos e Transporte",
-    investmentOption2: "Produção de Conteúdo", 
-    investmentComplete: "Serviços Técnicos",
-    completePackagePrice: "Direção Artística",
+    investmentOption1: "100 Jaquetas Técnicas",
+    investmentOption2: "100 Sacos de Dormir", 
+    investmentComplete: "100 Barracas Ultracompactas",
+    completePackagePrice: "Desenvolvimento Completo",
     
     flexibleInvestmentTitle: "CONTATO",
     optionA: "The Force.cc",
@@ -378,33 +378,33 @@ export const translations = {
     completePackageLabel: "São Paulo – SP | @theforcex",
     
     // Development methodology
-    methodologyTitle: "Cronograma de Execução",
-    methodologyDescription: "O projeto seguirá um cronograma estruturado para garantir execução impecável:",
+    methodologyTitle: "Cronograma de Produção",
+    methodologyDescription: "O projeto segue um cronograma estruturado para garantir entrega de qualidade:",
     methodologySteps: [
-      "Pré-Produção: Desenvolvimento do conceito artístico e produção de conteúdo exclusivo",
-      "Preparação Técnica: Teste de equipamentos e programação audiovisual",
-      "Montagem: 11 de Agosto - Instalação dos painéis LED e sistema de som no Teatro",
-      "Evento: 12 de Agosto - Operação técnica durante todo o Jantar Experiência",
-      "Desmontagem: Retirada completa dos equipamentos pós-evento"
+      "Desenvolvimento do Design: Criação da identidade visual e especificações técnicas",
+      "Prototipagem: Testes de materiais e validação de funcionalidade",
+      "Produção: Fabricação das 300 unidades com controle de qualidade",
+      "Integração do Manual: Incorporação do manual Ford em cada produto",
+      "Entrega: Envio completo até final de setembro de 2025"
     ],
     viewTerms: "Ver Termos",
     
     // Terms section
     termsLabel: "04 / Acordo",
     termsTitle: "Termos & Condições",
-    termsDescription: "Nosso acordo garante um entendimento claro do escopo do projeto, entregas e responsabilidades.",
+    termsDescription: "Termos comerciais garantem entendimento claro do escopo do projeto, entregas e cronograma de produção.",
     
     termsConditions: [
-      "O valor de R$ 180.000,00 inclui todos os equipamentos, serviços técnicos, produção de conteúdo e operação durante o evento.",
-      "A montagem será realizada em 11 de Agosto de 2025 no Teatro Cultura Artística.",
-      "A instalação funcionará durante todo o Jantar Experiência em 12 de Agosto de 2025.",
-      "O conteúdo audiovisual será produzido exclusivamente para este evento, com conceito artístico alinhado ao propósito da noite.",
-      "A equipe técnica especializada permanecerá no local durante toda a duração do evento.",
-      "Os direitos autorais do conteúdo criado pertencem à THE FORCE.",
+      "O valor de R$ 1.036.000,00 inclui desenvolvimento técnico e criativo completo e produção das 300 unidades.",
+      "Prazo de produção: até 45 dias úteis após sinal e aprovação de design final.",
+      "Entrega prevista até o final de setembro de 2025 com garantia de qualidade.",
+      "O manual impresso da Ford será fisicamente integrado aos produtos como elemento técnico e simbólico.",
+      "Coordenação completa de fornecedores e controle de qualidade durante todo o processo produtivo.",
+      "Os direitos autorais da identidade visual e design pertencem à THE FORCE.",
       "A assinatura desta proposta implica na contratação dos serviços aqui descritos.",
       "Alterações no conceito ou escopo após aprovação podem gerar custos adicionais.",
-      "O valor inclui impostos vigentes na data de emissão desta proposta.",
-      "Não estão inclusos no valor: hospedagem, alimentação ou outros custos não especificados nesta proposta."
+      "O valor inclui impostos (18%) vigentes na data de emissão desta proposta.",
+      "Entrega final inclui documentação completa e especificações técnicas de cada produto."
     ],
     
     // Contact information
@@ -419,7 +419,7 @@ export const translations = {
     // Approval
     approvalTitle: "Aprovação",
     location2: "São Paulo, Brasil",
-    client: "Pacto Contra a Fome",
+    client: "Wieden+Kennedy",
     theForceLabel: "THE FORCE", 
     creativeDirector: "LUCIANO FERRAREZI - DIREÇÃO CRIATIVA E TÉCNICA",
     acceptProposal: "Aceitar Proposta",
