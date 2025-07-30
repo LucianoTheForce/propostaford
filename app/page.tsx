@@ -207,9 +207,7 @@ export default function Home() {
                         >
                           {t('subtitle')}
                         </AdvancedTextAnimation>
-                        <span className="text-xs align-top relative" style={{ marginLeft: "0.2rem", top: "0.5rem" }}>
-                          ®
-                        </span>
+                        <span className="text-xs align-top relative" style={{ top: "0.5rem", marginLeft: "-0.1em" }}>®</span>
                       </div>
                     </div>
                   </MagneticElement>
@@ -822,9 +820,7 @@ export default function Home() {
                     <AdvancedTextAnimation fontWeight="extrabold" type="letter" staggerChildren={0.03}>
                       THE FORCE
                     </AdvancedTextAnimation>
-                    <span className="text-xs align-top relative" style={{ marginLeft: "0.2rem", top: "0.5rem" }}>
-                      ®
-                    </span>
+                    <span className="text-xs align-top relative" style={{ top: "0.5rem" }}>®</span>
                   </div>
                 </Link>
               </div>

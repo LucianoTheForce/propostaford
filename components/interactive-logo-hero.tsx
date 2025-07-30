@@ -293,8 +293,8 @@ function Lighting() {
       <pointLight position={[-10, 0, -10]} intensity={0.5} />
       <pointLight position={[0, -10, 5]} intensity={0.3} />
       
-      {/* Ambiente HDRI de estúdio para reflexões limpas */}
-      <Environment preset="studio" />
+      {/* Ambiente HDRI local para reflexões limpas */}
+      <Environment files="/studio_small_03_1k.hdr" />
     </>
   )
 }
