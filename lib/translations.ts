@@ -4,9 +4,9 @@ export const translations = {
     location: "BR - SP",
     
     // Header section
-    title: "FORD",
+    title: "BETANO",
     subtitle: "X THE FORCE",
-    proposalTitle: "Proposal — Manual Ford Off-Road Project",
+    proposalTitle: "Proposal — Betano Roda Roleta Activation",
     scrollIndicator: "Scroll to explore",
     
     // Company info
@@ -133,7 +133,7 @@ export const translations = {
       "High-performance materials and intelligent finishes",
       "Supplier coordination and quality control until delivery"
     ],
-    proposal1Price: "R$ 1,036,000.00",
+    proposal1Price: "R$ 2,000,000.00",
     
     proposal2Label: "TOTAL VALUE", 
     proposal2Title: "One million, thirty-six thousand reais",
@@ -223,9 +223,9 @@ export const translations = {
     location: "BR - SP",
     
     // Header section
-    title: "FORD",
+    title: "BETANO",
     subtitle: "X THE FORCE",
-    proposalTitle: "Proposta — Projeto Manual Ford Off-Road",
+    proposalTitle: "Proposta — Ativação Roda Roleta Betano",
     scrollIndicator: "Role para explorar",
     
     // Company info
@@ -352,7 +352,7 @@ export const translations = {
       "Materiais de alta performance e acabamentos inteligentes",
       "Coordenação de fornecedores e controle de qualidade até entrega"
     ],
-    proposal1Price: "R$ 1.036.000,00",
+    proposal1Price: "R$ 2.000.000,00",
     
     proposal2Label: "VALOR TOTAL",
     proposal2Title: "Um milhão, trinta e seis mil reais", 
