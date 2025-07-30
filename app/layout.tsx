@@ -9,11 +9,11 @@ export const metadata: Metadata = {
   generator: 'v0.dev',
   icons: {
     icon: [
-      { url: '/favicon.ico', sizes: '16x16', type: 'image/x-icon' },
-      { url: '/betano-favicon.svg', sizes: '32x32', type: 'image/svg+xml' }
+      { url: '/faviconV2.png', sizes: '32x32', type: 'image/png' },
+      { url: '/faviconV2.png', sizes: '16x16', type: 'image/png' }
     ],
-    shortcut: '/favicon.ico',
-    apple: '/betano-favicon.svg'
+    shortcut: '/faviconV2.png',
+    apple: '/faviconV2.png'
   }
 }
 
