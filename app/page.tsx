@@ -205,9 +205,8 @@ export default function Home() {
                           staggerChildren={0.03}
                           letterSpacing="-0.03em"
                         >
-                          {t('subtitle')}
+                          {t('subtitle')}®
                         </AdvancedTextAnimation>
-                        <span className="text-xs align-top relative" style={{ top: "0.5rem" }}>®</span>
                       </div>
                     </div>
                   </MagneticElement>
