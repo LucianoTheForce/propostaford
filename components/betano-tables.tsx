@@ -18,58 +18,115 @@ export function BetanoTables() {
 
         {/* Perfis de Usuário */}
         <div className="mb-8">
-          <h4 className="text-lg font-medium mb-4 text-white/90">Perfis de Usuário</h4>
+          <h4 className="text-lg font-medium mb-4 text-white/90">Perfis de Usuário - Tempo de Interação</h4>
+          <p className="text-sm text-white/70 mb-4">
+            Tempo médio para completar cadastro e realizar aposta na roleta, baseado no perfil de familiaridade com tecnologia:
+          </p>
           <StyledTable>
             <StyledTableHeader>
               <StyledTableRow>
-                <StyledTableCell isHeader>Perfil</StyledTableCell>
-                <StyledTableCell isHeader>Percentual</StyledTableCell>
-                <StyledTableCell isHeader>Tempo (seg)</StyledTableCell>
+                <StyledTableCell isHeader>Perfil do Usuário</StyledTableCell>
+                <StyledTableCell isHeader>% dos Participantes</StyledTableCell>
+                <StyledTableCell isHeader>Tempo Cadastro + Aposta</StyledTableCell>
               </StyledTableRow>
             </StyledTableHeader>
             <StyledTableBody>
               <StyledTableRow>
-                <StyledTableCell>Rápido</StyledTableCell>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium">Rápido</div>
+                    <div className="text-xs text-white/60">Usuários tech-savvy</div>
+                  </div>
+                </StyledTableCell>
                 <StyledTableCell>20%</StyledTableCell>
-                <StyledTableCell>25s</StyledTableCell>
+                <StyledTableCell>25 segundos</StyledTableCell>
               </StyledTableRow>
               <StyledTableRow>
-                <StyledTableCell>Médio</StyledTableCell>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium">Médio</div>
+                    <div className="text-xs text-white/60">Usuários regulares</div>
+                  </div>
+                </StyledTableCell>
                 <StyledTableCell>50%</StyledTableCell>
-                <StyledTableCell>40s</StyledTableCell>
+                <StyledTableCell>40 segundos</StyledTableCell>
               </StyledTableRow>
               <StyledTableRow>
-                <StyledTableCell>Lento</StyledTableCell>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium">Lento</div>
+                    <div className="text-xs text-white/60">Primeira experiência</div>
+                  </div>
+                </StyledTableCell>
                 <StyledTableCell>30%</StyledTableCell>
-                <StyledTableCell>60s</StyledTableCell>
+                <StyledTableCell>60 segundos</StyledTableCell>
               </StyledTableRow>
             </StyledTableBody>
           </StyledTable>
-          <p className="text-sm text-white/60 mt-2">Tempo médio global: 43 segundos</p>
+          <div className="mt-3 p-3 bg-white/5 rounded-lg">
+            <p className="text-sm text-white/80">
+              <span className="font-medium">Tempo médio ponderado:</span> 43 segundos por participante
+            </p>
+            <p className="text-xs text-white/60 mt-1">
+              Cálculo: (20% × 25s) + (50% × 40s) + (30% × 60s) = 43s
+            </p>
+          </div>
         </div>
 
         {/* Configuração dos Totens */}
         <div className="mb-8">
-          <h4 className="text-lg font-medium mb-4 text-white/90">Configuração dos Totens</h4>
+          <h4 className="text-lg font-medium mb-4 text-white/90">Configuração dos Totens Interativos</h4>
+          <p className="text-sm text-white/70 mb-4">
+            Especificações técnicas dos equipamentos para cadastro e participação na roleta:
+          </p>
           <StyledTable>
             <StyledTableHeader>
               <StyledTableRow>
-                <StyledTableCell isHeader>Item</StyledTableCell>
                 <StyledTableCell isHeader>Especificação</StyledTableCell>
+                <StyledTableCell isHeader>Detalhes</StyledTableCell>
+                <StyledTableCell isHeader>Funcionalidade</StyledTableCell>
               </StyledTableRow>
             </StyledTableHeader>
             <StyledTableBody>
               <StyledTableRow>
-                <StyledTableCell>Quantidade</StyledTableCell>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium">Quantidade</div>
+                    <div className="text-xs text-white/60">Total de equipamentos</div>
+                  </div>
+                </StyledTableCell>
                 <StyledTableCell>4 unidades</StyledTableCell>
+                <StyledTableCell>Processamento simultâneo de cadastros</StyledTableCell>
               </StyledTableRow>
               <StyledTableRow>
-                <StyledTableCell>Descrição</StyledTableCell>
-                <StyledTableCell>Totens touch 55″</StyledTableCell>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium">Display</div>
+                    <div className="text-xs text-white/60">Tela touchscreen</div>
+                  </div>
+                </StyledTableCell>
+                <StyledTableCell>55 polegadas</StyledTableCell>
+                <StyledTableCell>Interface intuitiva para cadastro e apostas</StyledTableCell>
               </StyledTableRow>
               <StyledTableRow>
-                <StyledTableCell>Usuários por totem</StyledTableCell>
-                <StyledTableCell>1 pessoa</StyledTableCell>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium">Capacidade</div>
+                    <div className="text-xs text-white/60">Usuários simultâneos</div>
+                  </div>
+                </StyledTableCell>
+                <StyledTableCell>1 pessoa por totem</StyledTableCell>
+                <StyledTableCell>Experiência personalizada e privacidade</StyledTableCell>
+              </StyledTableRow>
+              <StyledTableRow>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium">Tempo Médio</div>
+                    <div className="text-xs text-white/60">Por interação completa</div>
+                  </div>
+                </StyledTableCell>
+                <StyledTableCell>43 segundos</StyledTableCell>
+                <StyledTableCell>Cadastro + seleção de aposta + confirmação</StyledTableCell>
               </StyledTableRow>
             </StyledTableBody>
           </StyledTable>
@@ -77,68 +134,120 @@ export function BetanoTables() {
 
         {/* Capacidade de Cadastros */}
         <div className="mb-8">
-          <h4 className="text-lg font-medium mb-4 text-white/90">Capacidade de Cadastros</h4>
+          <h4 className="text-lg font-medium mb-4 text-white/90">Capacidade Operacional de Cadastros</h4>
+          <p className="text-sm text-white/70 mb-4">
+            Projeção de cadastros baseada no tempo médio de 43s por participante e operação com 4 totens simultâneos:
+          </p>
           <StyledTable>
             <StyledTableHeader>
               <StyledTableRow>
-                <StyledTableCell isHeader>Período</StyledTableCell>
-                <StyledTableCell isHeader>Quantidade</StyledTableCell>
+                <StyledTableCell isHeader>Período de Análise</StyledTableCell>
+                <StyledTableCell isHeader>Novos Cadastros</StyledTableCell>
+                <StyledTableCell isHeader>Base de Cálculo</StyledTableCell>
               </StyledTableRow>
             </StyledTableHeader>
             <StyledTableBody>
               <StyledTableRow>
-                <StyledTableCell>Por totem (5 min)</StyledTableCell>
+                <StyledTableCell>Por totem (5 minutos)</StyledTableCell>
                 <StyledTableCell>6 cadastros</StyledTableCell>
+                <StyledTableCell>300s ÷ 43s = ~7 participações</StyledTableCell>
               </StyledTableRow>
               <StyledTableRow>
-                <StyledTableCell>Por giro (4 totens)</StyledTableCell>
+                <StyledTableCell>Por rodada completa</StyledTableCell>
                 <StyledTableCell>24 cadastros</StyledTableCell>
+                <StyledTableCell>6 cadastros × 4 totens simultâneos</StyledTableCell>
               </StyledTableRow>
               <StyledTableRow>
-                <StyledTableCell>Por hora</StyledTableCell>
+                <StyledTableCell>Por hora operacional</StyledTableCell>
                 <StyledTableCell>288 cadastros</StyledTableCell>
+                <StyledTableCell>24 por rodada × 12 rodadas/hora</StyledTableCell>
               </StyledTableRow>
               <StyledTableRow>
-                <StyledTableCell>Por dia</StyledTableCell>
+                <StyledTableCell>Por dia (6h ativas)</StyledTableCell>
                 <StyledTableCell className="font-bold text-white">1.730 cadastros</StyledTableCell>
+                <StyledTableCell>288/hora × 6 horas de operação</StyledTableCell>
               </StyledTableRow>
             </StyledTableBody>
           </StyledTable>
+          <div className="mt-3 p-3 bg-blue-500/10 rounded-lg border border-blue-500/20">
+            <p className="text-sm text-blue-200">
+              <span className="font-medium">Meta diária:</span> 1.700 cadastros (conversão de 0,5% do fluxo da estação)
+            </p>
+          </div>
         </div>
 
         {/* Tempo de Permanência */}
         <div>
-          <h4 className="text-lg font-medium mb-4 text-white/90">Tempo de Permanência</h4>
+          <h4 className="text-lg font-medium mb-4 text-white/90">Jornada Completa do Participante</h4>
+          <p className="text-sm text-white/70 mb-4">
+            Breakdown detalhado do tempo total de permanência na ativação, do primeiro contato até o recebimento do brinde:
+          </p>
           <StyledTable>
             <StyledTableHeader>
               <StyledTableRow>
-                <StyledTableCell isHeader>Etapa</StyledTableCell>
-                <StyledTableCell isHeader>Tempo (seg)</StyledTableCell>
+                <StyledTableCell isHeader>Etapa da Experiência</StyledTableCell>
+                <StyledTableCell isHeader>Duração</StyledTableCell>
+                <StyledTableCell isHeader>Descrição da Atividade</StyledTableCell>
               </StyledTableRow>
             </StyledTableHeader>
             <StyledTableBody>
               <StyledTableRow>
-                <StyledTableCell>Fila</StyledTableCell>
-                <StyledTableCell>108s</StyledTableCell>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium">Aproximação e Fila</div>
+                    <div className="text-xs text-white/60">Aguardando totem livre</div>
+                  </div>
+                </StyledTableCell>
+                <StyledTableCell>108 segundos</StyledTableCell>
+                <StyledTableCell>Atrair atenção, explicar mecânica, aguardar vez</StyledTableCell>
               </StyledTableRow>
               <StyledTableRow>
-                <StyledTableCell>Registro e aposta</StyledTableCell>
-                <StyledTableCell>43s</StyledTableCell>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium">Cadastro e Aposta</div>
+                    <div className="text-xs text-white/60">Interação no totem</div>
+                  </div>
+                </StyledTableCell>
+                <StyledTableCell>43 segundos</StyledTableCell>
+                <StyledTableCell>Preencher dados, escolher números/cores, confirmar</StyledTableCell>
               </StyledTableRow>
               <StyledTableRow>
-                <StyledTableCell>Espera até giro</StyledTableCell>
-                <StyledTableCell>150s</StyledTableCell>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium">Aguardo do Giro</div>
+                    <div className="text-xs text-white/60">Expectativa e engajamento</div>
+                  </div>
+                </StyledTableCell>
+                <StyledTableCell>150 segundos</StyledTableCell>
+                <StyledTableCell>Socialização, foto, vídeos, aguardar rodada</StyledTableCell>
               </StyledTableRow>
               <StyledTableRow>
-                <StyledTableCell>Giro e anúncio</StyledTableCell>
-                <StyledTableCell>30s</StyledTableCell>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium">Giro e Premiação</div>
+                    <div className="text-xs text-white/60">Momento de resultado</div>
+                  </div>
+                </StyledTableCell>
+                <StyledTableCell>30 segundos</StyledTableCell>
+                <StyledTableCell>Execução da roleta, anúncio, entrega de brinde</StyledTableCell>
               </StyledTableRow>
-              <StyledTableRow>
-                <StyledTableCell className="font-bold">Total</StyledTableCell>
+              <StyledTableRow className="bg-white/5">
+                <StyledTableCell className="font-bold">
+                  <div>
+                    <div>Experiência Completa</div>
+                    <div className="text-xs text-white/60">Tempo total investido</div>
+                  </div>
+                </StyledTableCell>
                 <StyledTableCell className="font-bold text-white">350s (5min 50s)</StyledTableCell>
+                <StyledTableCell className="font-medium">Do primeiro contato ao brinde recebido</StyledTableCell>
               </StyledTableRow>
             </StyledTableBody>
           </StyledTable>
+          <div className="mt-3 p-3 bg-green-500/10 rounded-lg border border-green-500/20">
+            <p className="text-sm text-green-200">
+              <span className="font-medium">Impacto positivo:</span> Experiência completa de ~6 minutos gera alto engajamento e recall da marca
+            </p>
+          </div>
         </div>
       </div>
 
@@ -191,38 +300,71 @@ export function BetanoTables() {
 
         {/* Regras de Premiação */}
         <div>
-          <h4 className="text-lg font-medium mb-4 text-white/90">Regras de Premiação por Rodada</h4>
+          <h4 className="text-lg font-medium mb-4 text-white/90">Sistema de Premiação Inteligente</h4>
+          <p className="text-sm text-white/70 mb-4">
+            Mecânica de recompensas que garante que 100% dos participantes recebam brindes, incentivando o engajamento:
+          </p>
           <StyledTable>
             <StyledTableHeader>
               <StyledTableRow>
-                <StyledTableCell isHeader>Acerto</StyledTableCell>
-                <StyledTableCell isHeader>Prêmio</StyledTableCell>
-                <StyledTableCell isHeader>Quantidade</StyledTableCell>
+                <StyledTableCell isHeader>Tipo de Acerto</StyledTableCell>
+                <StyledTableCell isHeader>Brinde Conquistado</StyledTableCell>
+                <StyledTableCell isHeader>Probabilidade/Quantidade</StyledTableCell>
+                <StyledTableCell isHeader>Valor Percebido</StyledTableCell>
               </StyledTableRow>
             </StyledTableHeader>
             <StyledTableBody>
               <StyledTableRow>
-                <StyledTableCell>Número exato</StyledTableCell>
-                <StyledTableCell>Fone Bluetooth</StyledTableCell>
-                <StyledTableCell>1 unidade</StyledTableCell>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium text-yellow-300">Número Exato</div>
+                    <div className="text-xs text-white/60">Acerto certeiro (1 em 37)</div>
+                  </div>
+                </StyledTableCell>
+                <StyledTableCell>Fone Bluetooth Premium</StyledTableCell>
+                <StyledTableCell>1 por giro (garantido)</StyledTableCell>
+                <StyledTableCell className="text-yellow-300 font-medium">Alto</StyledTableCell>
               </StyledTableRow>
               <StyledTableRow>
-                <StyledTableCell>Cor correta</StyledTableCell>
-                <StyledTableCell>Copo personalizado</StyledTableCell>
-                <StyledTableCell>~3 unidades</StyledTableCell>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium text-red-300">Cor Correta</div>
+                    <div className="text-xs text-white/60">Vermelho ou Preto (~48%)</div>
+                  </div>
+                </StyledTableCell>
+                <StyledTableCell>Copo Betano Personalizado</StyledTableCell>
+                <StyledTableCell>~12 participantes/giro</StyledTableCell>
+                <StyledTableCell className="text-red-300 font-medium">Médio</StyledTableCell>
               </StyledTableRow>
               <StyledTableRow>
-                <StyledTableCell>Paridade correta</StyledTableCell>
-                <StyledTableCell>Cordão celular</StyledTableCell>
-                <StyledTableCell>~2 unidades</StyledTableCell>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium text-blue-300">Paridade Correta</div>
+                    <div className="text-xs text-white/60">Par ou Ímpar (~48%)</div>
+                  </div>
+                </StyledTableCell>
+                <StyledTableCell>Cordão de Celular</StyledTableCell>
+                <StyledTableCell>~8 participantes/giro</StyledTableCell>
+                <StyledTableCell className="text-blue-300 font-medium">Médio</StyledTableCell>
               </StyledTableRow>
               <StyledTableRow>
-                <StyledTableCell>Nenhum acerto</StyledTableCell>
-                <StyledTableCell>Chaveiro Betano</StyledTableCell>
-                <StyledTableCell>1 por tel/dia</StyledTableCell>
+                <StyledTableCell>
+                  <div>
+                    <div className="font-medium text-green-300">Participação</div>
+                    <div className="text-xs text-white/60">Garantia de brinde</div>
+                  </div>
+                </StyledTableCell>
+                <StyledTableCell>Chaveiro Exclusivo Betano</StyledTableCell>
+                <StyledTableCell>1 por telefone/dia</StyledTableCell>
+                <StyledTableCell className="text-green-300 font-medium">Lembrança</StyledTableCell>
               </StyledTableRow>
             </StyledTableBody>
           </StyledTable>
+          <div className="mt-3 p-3 bg-purple-500/10 rounded-lg border border-purple-500/20">
+            <p className="text-sm text-purple-200">
+              <span className="font-medium">Estratégia:</span> Múltiplas formas de "ganhar" aumentam satisfação e reduzem frustração
+            </p>
+          </div>
         </div>
       </div>
 
@@ -237,46 +379,86 @@ export function BetanoTables() {
         <StyledTable>
           <StyledTableHeader>
             <StyledTableRow>
-              <StyledTableCell isHeader>Item</StyledTableCell>
-              <StyledTableCell isHeader>Quantidade Total</StyledTableCell>
-              <StyledTableCell isHeader>Distribuição</StyledTableCell>
+              <StyledTableCell isHeader>Brinde</StyledTableCell>
+              <StyledTableCell isHeader>Estoque Total</StyledTableCell>
+              <StyledTableCell isHeader>Distribuição Diária</StyledTableCell>
+              <StyledTableCell isHeader>Duração Estimada</StyledTableCell>
             </StyledTableRow>
           </StyledTableHeader>
           <StyledTableBody>
             <StyledTableRow>
-              <StyledTableCell>Fone Bluetooth</StyledTableCell>
+              <StyledTableCell>
+                <div>
+                  <div className="font-medium text-yellow-300">Fone Bluetooth Premium</div>
+                  <div className="text-xs text-white/60">Prêmio maior - número exato</div>
+                </div>
+              </StyledTableCell>
               <StyledTableCell>555 unidades</StyledTableCell>
-              <StyledTableCell>72/dia (1 por giro)</StyledTableCell>
+              <StyledTableCell>72 por dia (1 por giro)</StyledTableCell>
+              <StyledTableCell className="text-yellow-300">7,7 dias</StyledTableCell>
             </StyledTableRow>
             <StyledTableRow>
-              <StyledTableCell>Copo Personalizado</StyledTableCell>
+              <StyledTableCell>
+                <div>
+                  <div className="font-medium text-red-300">Copo Personalizado</div>
+                  <div className="text-xs text-white/60">Acerto de cor (vermelho/preto)</div>
+                </div>
+              </StyledTableCell>
               <StyledTableCell>1.660 unidades</StyledTableCell>
-              <StyledTableCell>~216/dia</StyledTableCell>
+              <StyledTableCell>~216 por dia</StyledTableCell>
+              <StyledTableCell className="text-red-300">7,7 dias</StyledTableCell>
             </StyledTableRow>
             <StyledTableRow>
-              <StyledTableCell>Cordão Celular</StyledTableCell>
+              <StyledTableCell>
+                <div>
+                  <div className="font-medium text-blue-300">Cordão de Celular</div>
+                  <div className="text-xs text-white/60">Acerto de paridade (par/ímpar)</div>
+                </div>
+              </StyledTableCell>
               <StyledTableCell>1.110 unidades</StyledTableCell>
-              <StyledTableCell>~144/dia</StyledTableCell>
+              <StyledTableCell>~144 por dia</StyledTableCell>
+              <StyledTableCell className="text-blue-300">7,7 dias</StyledTableCell>
             </StyledTableRow>
             <StyledTableRow>
-              <StyledTableCell>Chaveiro Betano</StyledTableCell>
+              <StyledTableCell>
+                <div>
+                  <div className="font-medium text-green-300">Chaveiro Betano</div>
+                  <div className="text-xs text-white/60">Brinde garantido de participação</div>
+                </div>
+              </StyledTableCell>
               <StyledTableCell>15.000 unidades</StyledTableCell>
-              <StyledTableCell>Conforme demanda</StyledTableCell>
+              <StyledTableCell>Até 1.700 por dia</StyledTableCell>
+              <StyledTableCell className="text-green-300">8,8 dias</StyledTableCell>
             </StyledTableRow>
-            <StyledTableRow>
-              <StyledTableCell>Chaveiro (reserva)</StyledTableCell>
+            <StyledTableRow className="bg-white/5">
+              <StyledTableCell>
+                <div>
+                  <div className="font-medium text-gray-300">Chaveiro Reserva</div>
+                  <div className="text-xs text-white/60">Estoque de segurança adicional</div>
+                </div>
+              </StyledTableCell>
               <StyledTableCell>5.000 unidades</StyledTableCell>
-              <StyledTableCell>Estoque de segurança</StyledTableCell>
+              <StyledTableCell>Backup técnico</StyledTableCell>
+              <StyledTableCell className="text-gray-300">+2,9 dias</StyledTableCell>
             </StyledTableRow>
           </StyledTableBody>
         </StyledTable>
 
-        <div className="mt-6 p-4 bg-white/5 rounded-lg">
-          <p className="text-sm text-white/80">
-            <span className="font-medium">Nota:</span> O estoque foi planejado para 7 dias de operação, 
-            com margem de segurança de 20% para os itens principais e estoque adicional de chaveiros 
-            para garantir que todos os participantes recebam ao menos um brinde.
-          </p>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
+          <div className="p-4 bg-orange-500/10 rounded-lg border border-orange-500/20">
+            <h5 className="font-medium text-orange-200 mb-2">Planejamento Estratégico</h5>
+            <p className="text-sm text-orange-100">
+              Estoque calculado para <span className="font-bold">7 dias de operação</span> com margem de segurança de 20% 
+              nos itens principais e reserva técnica de chaveiros.
+            </p>
+          </div>
+          <div className="p-4 bg-green-500/10 rounded-lg border border-green-500/20">
+            <h5 className="font-medium text-green-200 mb-2">Garantia de Experiência</h5>
+            <p className="text-sm text-green-100">
+              <span className="font-bold">100% dos participantes</span> recebem pelo menos um brinde, 
+              criando experiência positiva e lembrança duradoura da marca.
+            </p>
+          </div>
         </div>
       </div>
     </div>
