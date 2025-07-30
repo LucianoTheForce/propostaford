@@ -11,7 +11,7 @@ export const translations = {
     
     // Company info
     companyDescription: "©THE FORCE offers immersive design + visual experiences",
-    clientList: "for brands : Ford, Coca-Cola, Heineken, Budweiser, Itaú, Ambev, Santander, Stella Artois [...]",
+    clientList: "for brands : Betano, Coca-Cola, Heineken, Budweiser, Itaú, Ambev, Santander, Stella Artois [...]",
     phone: "+55.11.98624.3000",
     email: "contato@theforce.cc",
     locationFull: "São Paulo, Brazil",
@@ -32,44 +32,44 @@ export const translations = {
     
     // Project section
     projectLabel: "PROJECT",
-    projectTitle1: "MANUAL FORD",
-    projectTitle2: "OFF-ROAD",
-    projectTitle3: "SURVIVAL KIT",
+    projectTitle1: "RODA ROLETA",
+    projectTitle2: "BETANO",
+    projectTitle3: "METRO ACTIVATION",
     
-    projectScopeTitle: "Client: Wieden+Kennedy | Contact: Patricia | Date: July 2025 | Delivery: End of September 2025 | Volume: 300 units",
+    projectScopeTitle: "Client: Betano | Contact: Marketing Team | Date: August 2025 | Activation: 6 hours daily | Location: Sé Metro Station",
     projectScope: [
-      "100 Technical Utility Jackets - Functional automotive manual aesthetic",
-      "100 Modular Sleeping Bags - High thermal performance, ultra-compact",
-      "100 Ultracompact Tents - Lightweight, foldable, quick assembly",
-      "Integration of original Ford manual as physical element",
-      "Technical development from prototyping to final delivery",
-      "Exclusive visual language with strong off-road connection",
-      "High-performance materials and intelligent finishes",
-      "Complete quality control and supplier coordination"
+      "Interactive roulette activation at Sé Metro Station with pre-recorded videos",
+      "JCDecaux digital panel integration for 1 hour daily peak visibility",
+      "LED panel at Betano booth for continuous 5 hours operation",
+      "Digital registration system with tablets/touchscreen totems",
+      "Comprehensive prize distribution system with tiered rewards",
+      "Professional promotional team coordination and crowd management",
+      "Age verification (18+) and LGPD data privacy compliance",
+      "Complete technical and operational setup for metro environment"
     ],
     
     // Creative concept
     creativeLabel: "CONCEPT",
-    creativeBrandTitle1: "AUTOMOTIVE",
-    creativeBrandTitle2: "SURVIVAL",
-    creativeBrandConceptTitle: '"Manual Ford Off-Road" - Technical Utility Products',
-    creativeBrandConceptIntro: "Creation of three high-performance utility products that:",
+    creativeBrandTitle1: "INTERACTIVE",
+    creativeBrandTitle2: "GAMING",
+    creativeBrandConceptTitle: '"Roda Roleta Betano" - Metro Promotional Activation',
+    creativeBrandConceptIntro: "Interactive promotional activation bringing casino excitement to metro environment:",
     creativeBrandConcept: [
-      "ROBUSTNESS - Inspired by automotive manual technical aesthetics",
-      "INTELLIGENCE - Functional design with modular versatility",
-      "MOBILITY - Compact, lightweight, durable for hostile environments",
-      "INNOVATION - Aligns with Ford values of resistance and smart design"
+      "EXCITEMENT - Real roulette emotion in safe, public metro setting",
+      "ENGAGEMENT - Real-time participation with instant prize distribution",
+      "ACCESSIBILITY - Free, entertaining experience for all metro passengers",
+      "TECHNOLOGY - Digital innovation combining pre-recorded content with live interaction"
     ],
     
     // Overview section
     overviewLabel: "01 / GENERAL CONCEPT",
-    overviewTitle1: "Off-Road",
-    overviewTitle2: "Survival Kit",
-    overviewDescription: "Inspired by the robustness, intelligence and versatility of an automotive technical manual — and aligned with Ford's innovative proposal — this project creates three high-performance utility products. More than promotional items, these are real, technical and functional equipment that translate the brand's values of resistance, innovation and mobility into physical pieces that directly dialogue with the off-road universe.",
+    overviewTitle1: "Metro",
+    overviewTitle2: "Roulette Experience",
+    overviewDescription: "The Roda Roleta Betano transforms São Paulo's Sé Metro Station into an interactive gaming environment. This promotional activation brings the thrill of casino roulette to metro passengers through a sophisticated system of pre-recorded videos, digital registration, and real-time prize distribution. Designed for 6-hour daily operation with capacity for hundreds of participants.",
     overviewFeatures: [
-      "Ford's printed manual physically incorporated into products as survival guide",
-      "Integrated graphic design with practical functionality and technical aesthetics",
-      "Modular system allowing products to work together for maximum versatility"
+      "Pre-recorded roulette videos with predetermined results ensure transparency and fairness",
+      "JCDecaux central panel provides maximum visibility during 1-hour peak periods",
+      "Comprehensive participant journey from registration to prize collection"
     ],
     
     // Client info
@@ -80,38 +80,38 @@ export const translations = {
     
     // Deliverables section
     deliverablesLabel: "02 / Products",
-    deliverablesTitle: "Survival Kit Products",
-    deliverablesDescription: "Three high-performance utility products with automotive manual aesthetic, designed for extreme conditions and aligned with Ford's off-road values.",
+    deliverablesTitle: "Roulette Activation Components",
+    deliverablesDescription: "Complete interactive promotional activation system designed for high-traffic metro environment with real-time engagement and comprehensive prize distribution.",
     
     deliverablesList: [
       {
-        title: "Technical Utility Jacket",
-        description: "Functional aesthetic inspired by automotive manuals. Structured hood, tactical velcros, functional carabiner. Compact, lightweight, durable and versatile — ideal for hostile environments. Ultra-compact folding capability.",
+        title: "Digital Roulette System",
+        description: "Pre-recorded roulette videos with predetermined results. Professional quality animations displaying complete rounds from spin to final number. Compatible with JCDecaux panels and LED booth displays for seamless operation.",
         number: "01"
       },
       {
-        title: "Modular Sleeping Bag",
-        description: "Developed for high thermal performance and comfort. Minimalist and technical design with intelligent closure. Takes up very little space (fits in glove compartment). Possibility of coupling with jacket for modularity.",
+        title: "Registration Platform",
+        description: "Digital betting system running on tablets/touchscreen totems. Simple and fast interface collecting participant data (name, WhatsApp) and bet selections. Real-time result checking and automatic winner identification.",
         number: "02"
       },
       {
-        title: "Ultracompact Tent",
-        description: "Lightweight, foldable, easy-assembly structure. Technical design with field equipment inspired aesthetics. Exclusive visual communication with Ford graphic codes. Dimensions designed to fit in car trunk.",
+        title: "Booth & Equipment Setup",
+        description: "Complete booth installation with LED panel, registration tablets, sound system with microphone, and crowd management structure. Professional setup designed for 6-hour daily operation in metro environment.",
         number: "03"
       },
       {
-        title: "Manual Integration",
-        description: "Ford's original printed manual physically integrated into products as both symbolic and functional element. Creates a true 'off-road survival guide' with integrated graphic design.",
+        title: "Prize Distribution System",
+        description: "Tiered prize system: exact number hits (premium prizes), partial hits - color/parity (medium prizes), and participation prizes for all. Immediate distribution process with inventory management and winner validation.",
         number: "04"
       },
       {
-        title: "Technical Development",
-        description: "Complete technical and creative development of the project. High-performance materials research, prototyping, quality control, and supplier coordination until final delivery.",
+        title: "Operational Team",
+        description: "Trained promotional team including registration support, crowd management, prize distribution, and technical operation. Age verification (18+) compliance and LGPD data privacy management throughout activation.",
         number: "05"
       },
       {
-        title: "Visual Identity",
-        description: "Unique authorial design and visual language with TheForce.cc signature. High visual impact aesthetics with strong connection to the off-road universe and Ford brand values.",
+        title: "JCDecaux Integration",
+        description: "1-hour daily integration with central metro digital panel during peak hours. Synchronized video playback with booth activities for maximum visibility and engagement across the entire station.",
         number: "06"
       }
     ],
@@ -122,38 +122,38 @@ export const translations = {
     pricingDescription: "Comprehensive value covering complete technical and creative development, high-performance material production, and delivery of all 300 units with quality guarantee.",
     
     // Proposals
-    proposal1Label: "MANUAL FORD OFF-ROAD PROJECT",
-    proposal1Title: "Complete Survival Kit",
+    proposal1Label: "RODA ROLETA BETANO ACTIVATION",
+    proposal1Title: "Complete Metro Activation",
     proposal1Items: [
-      "100 Technical Utility Jackets with automotive manual aesthetic",
-      "100 Modular Sleeping Bags with high thermal performance",
-      "100 Ultracompact Tents with quick assembly structure",
-      "Integration of Ford's printed manual into products",
-      "Complete technical and creative development",
-      "High-performance materials and intelligent finishes",
-      "Supplier coordination and quality control until delivery"
+      "Interactive roulette system with pre-recorded videos and predetermined results",
+      "Digital registration platform with tablets/totems for participant data collection",
+      "Complete booth setup with LED panel, sound system, and crowd management",
+      "JCDecaux central panel integration for 1 hour daily maximum visibility",
+      "Trained promotional team and comprehensive operational coordination",
+      "Tiered prize distribution system with immediate reward fulfillment",
+      "Age verification (18+) and complete LGPD data privacy compliance"
     ],
     proposal1Price: "R$ 2,000,000.00",
     
     proposal2Label: "TOTAL VALUE", 
-    proposal2Title: "One million, thirty-six thousand reais",
+    proposal2Title: "Two million reais",
     proposal2Subtitle: "Value includes taxes (18%) and complete delivery",
     proposal2Items: [
-      "Complete technical and creative development",
-      "Production of 300 high-performance items",
-      "Ford manual integration into products",
-      "Quality control and supplier coordination",
-      "Delivery until end of September 2025",
-      "TheForce.cc authorial design signature"
+      "Complete technical and creative development of roulette activation system",
+      "6 hours daily activation operation at Sé Metro Station with professional management",
+      "JCDecaux panel integration and coordination for maximum brand exposure",
+      "Professional team operation including registration, crowd control, and prize distribution",
+      "Comprehensive prize inventory management and immediate distribution system",
+      "TheForce.cc exclusive activation design with complete brand integration"
     ],
     proposal2Price: "Taxes included",
     
     // Investment options
     investmentOptionsTitle: "Value Includes",
-    investmentOption1: "100 Technical Jackets",
-    investmentOption2: "100 Sleeping Bags",
-    investmentComplete: "100 Ultracompact Tents",
-    completePackagePrice: "Complete Development",
+    investmentOption1: "Digital Roulette System",
+    investmentOption2: "Booth & Equipment Setup",
+    investmentComplete: "JCDecaux Integration",
+    completePackagePrice: "Complete Activation",
     
     flexibleInvestmentTitle: "CONTACT",
     optionA: "The Force.cc",
@@ -161,16 +161,16 @@ export const translations = {
     completePackageLabel: "São Paulo – SP | @theforcex",
     
     // Development methodology
-    methodologyTitle: "Production Timeline",
-    methodologyDescription: "The project follows a structured timeline to ensure quality delivery:",
+    methodologyTitle: "Activation Timeline",
+    methodologyDescription: "The activation follows a structured timeline to ensure successful metro operation:",
     methodologySteps: [
-      "Brand Discovery: Ford brand analysis and off-road concept development",
-      "Product Design: Technical jacket, sleeping bag and tent design development", 
-      "Material Research: High-performance materials selection and testing",
-      "Prototyping: Functional prototypes creation and validation",
-      "Manual Integration: Ford printed manual incorporation design",
-      "Production: Manufacturing of 300 units with quality control",
-      "Final Delivery: Complete shipment with documentation until September 2025"
+      "Concept Development: Roulette mechanics definition and participant journey mapping",
+      "Video Production: Professional pre-recorded roulette spins with predetermined results",
+      "Platform Development: Registration system and automatic result identification technology",
+      "Equipment Setup: Complete booth installation and technical testing in metro environment",
+      "Team Training: Staff preparation for crowd management, registration, and prize distribution",
+      "JCDecaux Coordination: Central panel integration and synchronized content scheduling",
+      "Activation Launch: 6-hour daily operation with real-time monitoring and optimization"
     ],
     viewTerms: "View Terms",
     
@@ -180,16 +180,16 @@ export const translations = {
     termsDescription: "Commercial terms ensure clear understanding of project scope, deliverables, and production timeline.",
     
     termsConditions: [
-      "The value of R$ 1,036,000.00 includes complete technical and creative development and production of 300 items.",
-      "Production timeline: up to 45 working days after advance payment and final design approval.",
-      "Delivery scheduled until the end of September 2025 with quality guarantee.",
-      "Ford's printed manual will be physically integrated into products as technical and symbolic element.",
-      "Complete supplier coordination and quality control throughout production process.",
-      "The copyright of the visual identity and design belongs to THE FORCE.",
+      "The value of R$ 2,000,000.00 includes complete technical development and activation operation.",
+      "Setup timeline: up to 30 working days after advance payment and final concept approval.",
+      "Activation period: 6 hours daily operation at Sé Metro Station with quality guarantee.",
+      "Pre-recorded roulette videos delivered with predetermined results for complete transparency.",
+      "Complete operational coordination including team, equipment, and comprehensive prize management.",
+      "The copyright of the visual identity and activation design belongs to THE FORCE.",
       "The signature of this proposal implies contracting of the services described herein.",
       "Changes in concept or scope after approval may generate additional costs.",
       "The value includes taxes (18%) in force on the date of issuance of this proposal.",
-      "Final delivery includes complete documentation and technical specifications for each product."
+      "Final delivery includes complete documentation and detailed operational reports."
     ],
     
     // Contact information
@@ -230,7 +230,7 @@ export const translations = {
     
     // Company info
     companyDescription: "©THE FORCE oferece experiências imersivas de design + visual",
-    clientList: "para marcas : Ford, Coca-Cola, Heineken, Budweiser, Itaú, Ambev, Santander, Stella Artois [...]",
+    clientList: "para marcas : Betano, Coca-Cola, Heineken, Budweiser, Itaú, Ambev, Santander, Stella Artois [...]",
     phone: "+55.11.98624.3000",
     email: "contato@theforce.cc", 
     locationFull: "São Paulo, Brasil",
@@ -251,44 +251,44 @@ export const translations = {
     
     // Project section  
     projectLabel: "PROJETO",
-    projectTitle1: "MANUAL FORD",
-    projectTitle2: "OFF-ROAD",
-    projectTitle3: "KIT SOBREVIVÊNCIA",
+    projectTitle1: "RODA ROLETA",
+    projectTitle2: "BETANO",
+    projectTitle3: "ATIVAÇÃO METRÔ",
     
-    projectScopeTitle: "Cliente: Wieden+Kennedy | Contato: Patricia | Data: Julho de 2025 | Entrega: Final de Setembro de 2025 | Volume: 300 unidades",
+    projectScopeTitle: "Cliente: Betano | Contato: Equipe Marketing | Data: Agosto de 2025 | Ativação: 6 horas diárias | Local: Estação Sé do Metrô",
     projectScope: [
-      "100 Jaquetas Técnicas Utilitárias - Estética funcional de manual automotivo",
-      "100 Sacos de Dormir Modulares - Alto desempenho térmico, ultracompactos",
-      "100 Barracas Ultracompactas - Leves, dobráveis, montagem rápida",
-      "Integração do manual original da Ford como elemento físico",
-      "Desenvolvimento técnico completo da prototipagem à entrega final",
-      "Linguagem visual exclusiva com forte conexão off-road",
-      "Materiais de alta performance e acabamentos inteligentes",
-      "Controle de qualidade completo e coordenação de fornecedores"
+      "Ativação de roleta interativa na Estação Sé do Metrô com vídeos pré-gravados",
+      "Integração com painel digital JCDecaux por 1 hora diária para máxima visibilidade",
+      "Painel LED no estande Betano para operação contínua de 5 horas",
+      "Sistema de cadastro digital com tablets/totens touchscreen",
+      "Sistema abrangente de distribuição de prêmios com recompensas escalonadas",
+      "Coordenação de equipe promocional profissional e gestão de fluxo",
+      "Verificação de idade (18+) e conformidade com privacidade de dados LGPD",
+      "Setup técnico e operacional completo para ambiente de metrô"
     ],
     
     // Creative concept
     creativeLabel: "CONCEITO",
-    creativeBrandTitle1: "SOBREVIVÊNCIA",
-    creativeBrandTitle2: "AUTOMOTIVA",
-    creativeBrandConceptTitle: '"Manual Ford Off-Road" - Produtos Técnicos Utilitários',
-    creativeBrandConceptIntro: "Criação de três produtos utilitários de alta performance que:",
+    creativeBrandTitle1: "ATIVAÇÃO",
+    creativeBrandTitle2: "INTERATIVA",
+    creativeBrandConceptTitle: '"Roda Roleta Betano" - Ativação Promocional no Metrô',
+    creativeBrandConceptIntro: "Ativação promocional interativa que traz a emoção do cassino ao metrô:",
     creativeBrandConcept: [
-      "ROBUSTEZ - Inspirados na estética técnica de manuais automotivos",
-      "INTELIGÊNCIA - Design funcional com versatilidade modular",
-      "MOBILIDADE - Compactos, leves, duráveis para ambientes hostis",
-      "INOVAÇÃO - Alinhados aos valores Ford de resistência e design inteligente"
+      "EMOÇÃO - Emoção real da roleta em ambiente seguro e público do metrô",
+      "ENGAJAMENTO - Participação em tempo real com distribuição instantânea de prêmios",
+      "ACESSIBILIDADE - Experiência gratuita e divertida para todos os passageiros",
+      "TECNOLOGIA - Inovação digital combinando conteúdo pré-gravado com interação ao vivo"
     ],
     
     // Overview section
     overviewLabel: "01 / CONCEITO GERAL",
-    overviewTitle1: "Kit de",
-    overviewTitle2: "Sobrevivência Off-Road",
-    overviewDescription: "Inspirado pela robustez, inteligência e versatilidade de um manual técnico automotivo — e alinhado à proposta inovadora da Ford — este projeto cria três produtos utilitários de alta performance. Mais do que itens promocionais, tratam-se de equipamentos reais, técnicos e funcionais, que traduzem os valores de resistência, inovação e mobilidade da marca em peças físicas que dialogam diretamente com o universo off-road.",
+    overviewTitle1: "Experiência de",
+    overviewTitle2: "Roleta no Metrô",
+    overviewDescription: "A Roda Roleta Betano transforma a Estação Sé do Metrô de São Paulo em um ambiente de gaming interativo. Esta ativação promocional traz a emoção da roleta de cassino aos passageiros através de um sistema sofisticado de vídeos pré-gravados, cadastro digital e distribuição de prêmios em tempo real. Projetada para operação diária de 6 horas com capacidade para centenas de participantes.",
     overviewFeatures: [
-      "Manual impresso da Ford incorporado fisicamente aos produtos como guia de sobrevivência",
-      "Design gráfico integrado com funcionalidade prática e estética técnica",
-      "Sistema modular permitindo que os produtos funcionem juntos para máxima versatilidade"
+      "Vídeos de roleta pré-gravados com resultados predeterminados garantem transparência e justiça",
+      "Painel central JCDecaux oferece visibilidade máxima durante períodos de pico de 1 hora",
+      "Jornada abrangente do participante desde cadastro até coleta de prêmios"
     ],
     
     // Client info
@@ -299,38 +299,38 @@ export const translations = {
     
     // Deliverables section
     deliverablesLabel: "02 / Produtos",
-    deliverablesTitle: "Produtos do Kit de Sobrevivência",
-    deliverablesDescription: "Três produtos utilitários de alta performance com estética de manual automotivo, projetados para condições extremas e alinhados aos valores off-road da Ford.",
+    deliverablesTitle: "Componentes da Ativação Roleta",
+    deliverablesDescription: "Sistema completo de ativação promocional interativa projetado para ambiente de metrô de alto tráfego com engajamento em tempo real e distribuição abrangente de prêmios.",
     
     deliverablesList: [
       {
-        title: "Jaqueta Técnica Utilitária",
-        description: "Estética funcional inspirada em manuais automotivos. Gorro estruturado, velcros táticos, mosquetão funcional. Compacta, leve, durável e versátil — ideal para ambientes hostis. Pode ser dobrada de forma ultra compacta.",
+        title: "Sistema de Roleta Digital",
+        description: "Vídeos de roleta pré-gravados com resultados predeterminados. Animações de qualidade profissional exibindo rodadas completas do giro ao número final. Compatíveis com painéis JCDecaux e displays LED para operação perfeita.",
         number: "01"
       },
       {
-        title: "Saco de Dormir Modular",
-        description: "Desenvolvido para alto desempenho térmico e conforto. Design minimalista e técnico, com fechamento inteligente. Ocupa pouquíssimo espaço (cabe no porta-luvas). Possibilidade de uso acoplado à jaqueta para modularidade.",
+        title: "Plataforma de Cadastro",
+        description: "Sistema digital de apostas em tablets/totens touchscreen. Interface simples e rápida coletando dados dos participantes (nome, WhatsApp) e seleções de apostas. Verificação de resultados em tempo real e identificação automática de ganhadores.",
         number: "02"
       },
       {
-        title: "Barraca Ultracompacta",
-        description: "Estrutura leve, dobrável, de fácil montagem. Design técnico com estética inspirada em equipamentos de campo. Comunicação visual exclusiva com códigos gráficos da Ford. Dimensões projetadas para caber no porta-malas do carro.",
+        title: "Estande & Setup de Equipamentos",
+        description: "Instalação completa de estande com painel LED, tablets de cadastro, sistema de som com microfone e estrutura de gestão de fluxo. Setup profissional projetado para operação diária de 6 horas em ambiente de metrô.",
         number: "03"
       },
       {
-        title: "Integração do Manual",
-        description: "Manual impresso original da Ford fisicamente integrado aos produtos como elemento simbólico e funcional. Cria um verdadeiro 'guia de sobrevivência off-road' com design gráfico integrado.",
+        title: "Sistema de Distribuição de Prêmios",
+        description: "Sistema de prêmios escalonado: acertos exatos de número (prêmios premium), acertos parciais - cor/paridade (prêmios médios) e prêmios de participação para todos. Processo de distribuição imediata com gestão de estoque e validação de ganhadores.",
         number: "04"
       },
       {
-        title: "Desenvolvimento Técnico",
-        description: "Desenvolvimento técnico e criativo completo do projeto. Pesquisa de materiais de alta performance, prototipagem, controle de qualidade e coordenação de fornecedores até a entrega final.",
+        title: "Equipe Operacional",
+        description: "Equipe promocional treinada incluindo suporte ao cadastro, gestão de fluxo, distribuição de prêmios e operação técnica. Conformidade com verificação de idade (18+) e gestão de privacidade de dados LGPD durante toda a ativação.",
         number: "05"
       },
       {
-        title: "Identidade Visual",
-        description: "Design autoral e linguagem visual única com assinatura TheForce.cc. Estética de alto impacto visual com forte conexão com o universo off-road e valores da marca Ford.",
+        title: "Integração JCDecaux",
+        description: "Integração diária de 1 hora com painel digital central do metrô durante horários de pico. Reprodução de vídeo sincronizada com atividades do estande para máxima visibilidade e engajamento em toda a estação.",
         number: "06"
       }
     ],
@@ -341,38 +341,38 @@ export const translations = {
     pricingDescription: "Valor abrangente cobrindo desenvolvimento técnico e criativo completo, produção com materiais de alta performance e entrega de todas as 300 unidades com garantia de qualidade.",
     
     // Single proposal for the event
-    proposal1Label: "PROJETO MANUAL FORD OFF-ROAD",
-    proposal1Title: "Kit de Sobrevivência Completo",
+    proposal1Label: "ATIVAÇÃO RODA ROLETA BETANO",
+    proposal1Title: "Ativação Completa no Metrô",
     proposal1Items: [
-      "100 Jaquetas Técnicas Utilitárias com estética de manual automotivo",
-      "100 Sacos de Dormir Modulares com alto desempenho térmico", 
-      "100 Barracas Ultracompactas com estrutura de montagem rápida",
-      "Integração do manual impresso da Ford aos produtos",
-      "Desenvolvimento técnico e criativo completo",
-      "Materiais de alta performance e acabamentos inteligentes",
-      "Coordenação de fornecedores e controle de qualidade até entrega"
+      "Sistema de roleta interativa com vídeos pré-gravados e resultados predeterminados",
+      "Plataforma de cadastro digital com tablets/totens para coleta de dados dos participantes",
+      "Setup completo de estande com painel LED, sistema de som e gestão de fluxo",
+      "Integração com painel central JCDecaux por 1 hora diária para máxima visibilidade",
+      "Equipe promocional treinada e coordenação operacional abrangente",
+      "Sistema de distribuição de prêmios escalonado com cumprimento imediato de recompensas",
+      "Verificação de idade (18+) e conformidade completa com privacidade de dados LGPD"
     ],
     proposal1Price: "R$ 2.000.000,00",
     
     proposal2Label: "VALOR TOTAL",
-    proposal2Title: "Um milhão, trinta e seis mil reais", 
+    proposal2Title: "Dois milhões de reais", 
     proposal2Subtitle: "Valor inclui impostos (18%) e entrega completa",
     proposal2Items: [
-      "Desenvolvimento técnico e criativo completo",
-      "Produção de 300 itens de alta performance",
-      "Integração do manual Ford aos produtos",
-      "Controle de qualidade e coordenação de fornecedores",
-      "Entrega até final de setembro de 2025",
-      "Assinatura de design autoral TheForce.cc"
+      "Desenvolvimento técnico e criativo completo do sistema de ativação de roleta",
+      "Operação diária de ativação de 6 horas na Estação Sé do Metrô com gestão profissional",
+      "Integração e coordenação com painel JCDecaux para máxima exposição da marca",
+      "Operação de equipe profissional incluindo cadastro, controle de fluxo e distribuição de prêmios",
+      "Gestão abrangente de estoque de prêmios e sistema de distribuição imediata",
+      "Design exclusivo de ativação TheForce.cc com integração completa da marca"
     ],
     proposal2Price: "Impostos inclusos",
     
     // Investment options
     investmentOptionsTitle: "Valor Inclui",
-    investmentOption1: "100 Jaquetas Técnicas",
-    investmentOption2: "100 Sacos de Dormir", 
-    investmentComplete: "100 Barracas Ultracompactas",
-    completePackagePrice: "Desenvolvimento Completo",
+    investmentOption1: "Sistema de Roleta Digital",
+    investmentOption2: "Estande & Setup de Equipamentos", 
+    investmentComplete: "Integração JCDecaux",
+    completePackagePrice: "Ativação Completa",
     
     flexibleInvestmentTitle: "CONTATO",
     optionA: "The Force.cc",
@@ -380,16 +380,16 @@ export const translations = {
     completePackageLabel: "São Paulo – SP | @theforcex",
     
     // Development methodology
-    methodologyTitle: "Cronograma de Produção",
-    methodologyDescription: "O projeto segue um cronograma estruturado para garantir entrega de qualidade:",
+    methodologyTitle: "Cronograma da Ativação",
+    methodologyDescription: "A ativação segue um cronograma estruturado para garantir operação bem-sucedida no metrô:",
     methodologySteps: [
-      "Discovery da Marca: Análise da marca Ford e desenvolvimento do conceito off-road",
-      "Design dos Produtos: Desenvolvimento do design da jaqueta técnica, saco de dormir e barraca",
-      "Pesquisa de Materiais: Seleção e testes de materiais de alta performance",
-      "Prototipagem: Criação e validação de protótipos funcionais",
-      "Integração do Manual: Design da incorporação do manual impresso da Ford",
-      "Produção: Fabricação das 300 unidades com controle de qualidade",
-      "Entrega Final: Envio completo com documentação até setembro de 2025"
+      "Desenvolvimento do Conceito: Definição da mecânica da roleta e mapeamento da jornada do participante",
+      "Produção de Vídeos: Giros de roleta pré-gravados profissionais com resultados predeterminados",
+      "Desenvolvimento da Plataforma: Sistema de cadastro e tecnologia de identificação automática de resultados",
+      "Setup de Equipamentos: Instalação completa do estande e testes técnicos em ambiente de metrô",
+      "Treinamento da Equipe: Preparação do staff para gestão de fluxo, cadastro e distribuição de prêmios",
+      "Coordenação JCDecaux: Integração do painel central e agendamento de conteúdo sincronizado",
+      "Lançamento da Ativação: Operação diária de 6 horas com monitoramento em tempo real e otimização"
     ],
     viewTerms: "Ver Termos",
     
@@ -399,16 +399,16 @@ export const translations = {
     termsDescription: "Termos comerciais garantem entendimento claro do escopo do projeto, entregas e cronograma de produção.",
     
     termsConditions: [
-      "O valor de R$ 1.036.000,00 inclui desenvolvimento técnico e criativo completo e produção das 300 unidades.",
-      "Prazo de produção: até 45 dias úteis após sinal e aprovação de design final.",
-      "Entrega prevista até o final de setembro de 2025 com garantia de qualidade.",
-      "O manual impresso da Ford será fisicamente integrado aos produtos como elemento técnico e simbólico.",
-      "Coordenação completa de fornecedores e controle de qualidade durante todo o processo produtivo.",
-      "Os direitos autorais da identidade visual e design pertencem à THE FORCE.",
+      "O valor de R$ 2.000.000,00 inclui desenvolvimento técnico completo e operação da ativação.",
+      "Prazo de setup: até 30 dias úteis após sinal e aprovação do conceito final.",
+      "Período de ativação: operação diária de 6 horas na Estação Sé do Metrô com garantia de qualidade.",
+      "Vídeos de roleta pré-gravados entregues com resultados predeterminados para completa transparência.",
+      "Coordenação operacional completa incluindo equipe, equipamentos e gestão abrangente de prêmios.",
+      "Os direitos autorais da identidade visual e design da ativação pertencem à THE FORCE.",
       "A assinatura desta proposta implica na contratação dos serviços aqui descritos.",
       "Alterações no conceito ou escopo após aprovação podem gerar custos adicionais.",
       "O valor inclui impostos (18%) vigentes na data de emissão desta proposta.",
-      "Entrega final inclui documentação completa e especificações técnicas de cada produto."
+      "Entrega final inclui documentação completa e relatórios operacionais detalhados."
     ],
     
     // Contact information
