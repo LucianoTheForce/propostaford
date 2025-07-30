@@ -18,7 +18,8 @@
       "Bash(del \"C:\\propostafordfinal\\propostafinal297\\public\\studio_small_03_1k.hdr\")",
       "Bash(rm:*)",
       "Bash(npm run build:*)",
-      "Bash(npm run lint)"
+      "Bash(npm run lint)",
+      "Bash(grep:*)"
     ],
     "deny": []
   }

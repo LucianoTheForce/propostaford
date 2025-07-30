@@ -32,7 +32,65 @@ export const translations = {
     
     // Executive Summary
     executiveSummaryTitle: "EXECUTIVE SUMMARY",
-    executiveSummaryDescription: "Feel the power of Betano Roulette. At Sé Station - São Paulo's beating heart - Betano will create a pure adrenaline haven, transforming 338,000 daily commuters into qualified leads ready to convert into loyal customers. In under 6 minutes, distracted travelers become protagonists: register, bet, feel the digital spin excitement and take their prize instantly.",
+    executiveSummaryDescription: "The Betano Roulette activation represents a strategic opportunity to transform São Paulo's busiest metro station into a high-conversion marketing engine. Targeting 338,000 daily commuters with casino-grade excitement, this activation generates qualified leads through immersive gaming experiences, delivering immediate brand engagement and measurable ROI of +140% within 12 months.",
+    
+    // Strategic Vision
+    strategicVisionTitle: "Strategic Vision",
+    strategicVisionSubtitle: "Converting Metro Traffic into Brand Loyalty",
+    strategicVisionDescription: "This activation capitalizes on three critical market factors: São Paulo's massive daily commuter flow, Betano's expansion into the Brazilian gaming market, and the proven effectiveness of experiential marketing in high-traffic environments. By positioning Betano as the premium gaming brand at the city's central transportation hub, we create sustained brand awareness and customer acquisition.",
+    strategicVisionPoints: [
+      "Market Penetration: Direct access to 338,000 potential customers daily across all demographics",
+      "Brand Positioning: Establish Betano as the leading gaming platform through premium activation experience", 
+      "Customer Acquisition: Convert 0.5% of daily traffic into qualified leads (1,700+ registrations/day)",
+      "ROI Optimization: Generate 1,450+ new depositors with 12-month customer lifetime value exceeding investment"
+    ],
+    
+    // Concept & Mechanics
+    conceptMechanicsTitle: "Complete Activation Mechanics",
+    conceptMechanicsSubtitle: "The 6-Minute Customer Journey",
+    conceptMechanicsDescription: "The Roda Roleta Betano transforms traditional promotional activation into an immersive gaming experience. Each participant follows a carefully designed 6-minute journey that maximizes engagement, data capture, and brand impression. The activation operates on 5-minute cycles, creating continuous energy and eliminating wait times while ensuring every participant receives a premium prize.",
+    
+    conceptMechanicsFlow: "The activation works through a seamless 6-step process: First, professional promoters equipped with tablets actively approach commuters, showcasing premium prizes and explaining the quick participation process. Second, interested participants move to one of four 55-inch touchscreen registration totems, completing a 50-second registration that captures essential marketing data while generating unique participation codes. Third, participants receive printed tickets or WhatsApp codes, creating immediate digital connection and follow-up opportunities. Fourth, during the 2.5-minute wait period, countdown timers and promotional videos maintain excitement while building anticipation for the roulette spin. Fifth, all participants gather to watch the 30-second roulette animation featuring realistic spinning mechanics and dramatic winner announcements. Finally, winners verify their codes at the prize distribution counter, while all participants receive Betano keychains as brand reminders. This process repeats 72 times daily, generating 1,730+ registrations and creating sustained brand visibility throughout the station.",
+    
+    // Technical Production Details
+    technicalProductionTitle: "Technical Production Requirements",
+    technicalProductionSubtitle: "Video Content and Operational Cycles",
+    technicalProductionDescription: "The activation requires precise technical execution with 72 unique roulette outcome videos daily, plus continuous content during non-gaming periods.",
+    
+    videoProductionDetails: [
+      "Daily Video Production: 72 unique 30-second roulette videos with different ball landing outcomes",
+      "Weekly Content: 504 individual videos (72 × 7 days) with predetermined winning numbers/colors",
+      "JCDecaux Integration: 1 hour daily of giant roulette content visible throughout station",
+      "Pre-rendered Content: All videos produced with realistic physics and Betano branding"
+    ],
+    
+    intervalContentTitle: "Content During Non-Gaming Periods",
+    intervalContentDescription: "During the 4 minutes 30 seconds between each roulette spin, multiple content streams maintain engagement:",
+    intervalContentDetails: [
+      "Registration Period (2min): Promotional videos showcasing Betano platform features and prizes",
+      "Countdown Timer (2min 30s): Dynamic countdown with escalating music and visual effects", 
+      "Ambient Content: Betano brand videos, user testimonials, and platform demonstrations",
+      "Audio Experience: Custom soundtrack building excitement toward each roulette moment",
+      "LED Booth Display: Continuous brand presence with animated logos and winner celebrations",
+      "Live Announcements: Promoter commentary and prize showcases between gaming cycles"
+    ],
+    
+    // Daily Schedule
+    dailyScheduleTitle: "Daily Operational Schedule",
+    dailyScheduleSubtitle: "Hour-by-Hour Activation Timeline",
+    dailyScheduleDescription: "Complete breakdown of a typical activation day, detailing team activities, content cycles, and operational procedures from setup to breakdown.",
+    
+    dailyScheduleItems: [
+      { time: "07:00-08:00", activity: "Team Setup", details: "Equipment testing, LED booth activation, totem calibration, prize inventory check, JCDecaux coordination" },
+      { time: "08:00-09:00", activity: "Pre-Launch", details: "Final system tests, promotional video loops active, team briefing, first roulette content loaded" },
+      { time: "09:00-10:00", activity: "Launch Hour", details: "12 roulette spins, 288 registrations target, JCDecaux giant roulette (30min), active promotion begins" },
+      { time: "10:00-11:00", activity: "Peak Period 1", details: "12 roulette spins, 288 registrations, continuous LED content, prize distribution in full swing" },
+      { time: "11:00-12:00", activity: "Mid-Morning", details: "12 roulette spins, 288 registrations, promoter tablet showcases, ongoing prize fulfillment" },
+      { time: "12:00-13:00", activity: "Lunch Rush", details: "12 roulette spins, 288 registrations, JCDecaux giant roulette (30min), peak commuter engagement" },
+      { time: "13:00-14:00", activity: "Peak Period 2", details: "12 roulette spins, 288 registrations, maximum booth energy, continuous winner celebrations" },
+      { time: "14:00-15:00", activity: "Afternoon Cycle", details: "12 roulette spins, 288 registrations, sustained promotional activity, inventory monitoring" },
+      { time: "15:00-16:00", activity: "Breakdown", details: "Final prize distribution, equipment shutdown, data collection, performance review, cleanup" }
+    ],
     
     // Strategic Opportunity
     opportunityTitle: "STRATEGIC OPPORTUNITY - SÉ STATION",
@@ -264,7 +322,65 @@ export const translations = {
     
     // Sumário Executivo
     executiveSummaryTitle: "SUMÁRIO EXECUTIVO",
-    executiveSummaryDescription: "Sinta o poder da Roleta Betano. Em plena Estação Sé - o coração pulsante de São Paulo - a Betano erguerá um reduto de pura adrenalina, capaz de transformar o vai-e-vem de 338 mil pessoas por dia em um funil de leads qualificados, prontos para converter-se em clientes fiéis. Em menos de 6 minutos, o viajante distraído vira protagonista: cadastra-se, aposta, vibra com o giro digital e leva seu prêmio na hora.",
+    executiveSummaryDescription: "A ativação Roda Roleta Betano representa uma oportunidade estratégica de transformar a estação de metrô mais movimentada de São Paulo em um motor de marketing de alta conversão. Direcionando 338.000 passageiros diários com emoção de cassino, esta ativação gera leads qualificados através de experiências de jogo imersivas, entregando engajamento imediato da marca e ROI mensurável de +140% em 12 meses.",
+    
+    // Strategic Vision
+    strategicVisionTitle: "Visão Estratégica",
+    strategicVisionSubtitle: "Convertendo Tráfego do Metrô em Fidelidade à Marca",
+    strategicVisionDescription: "Esta ativação capitaliza três fatores críticos de mercado: o fluxo massivo diário de passageiros de São Paulo, a expansão da Betano no mercado brasileiro de jogos e a eficácia comprovada do marketing experiencial em ambientes de alto tráfego. Ao posicionar a Betano como a marca premium de jogos no hub central de transporte da cidade, criamos consciência sustentada da marca e aquisição de clientes.",
+    strategicVisionPoints: [
+      "Penetração de Mercado: Acesso direto a 338.000 clientes potenciais diariamente em todas as demografias",
+      "Posicionamento de Marca: Estabelecer Betano como plataforma líder de jogos através de experiência premium de ativação",
+      "Aquisição de Clientes: Converter 0,5% do tráfego diário em leads qualificados (1.700+ cadastros/dia)",
+      "Otimização de ROI: Gerar 1.450+ novos depositantes com valor de vida útil de 12 meses excedendo investimento"
+    ],
+    
+    // Concept & Mechanics
+    conceptMechanicsTitle: "Mecânica Completa da Ativação",
+    conceptMechanicsSubtitle: "A Jornada do Cliente de 6 Minutos",
+    conceptMechanicsDescription: "A Roda Roleta Betano transforma ativação promocional tradicional em experiência de jogo imersiva. Cada participante segue uma jornada cuidadosamente projetada de 6 minutos que maximiza engajamento, captura de dados e impressão da marca. A ativação opera em ciclos de 5 minutos, criando energia contínua e eliminando tempos de espera enquanto garante que cada participante receba um prêmio premium.",
+    
+    conceptMechanicsFlow: "A ativação funciona através de um processo perfeito de 6 etapas: Primeiro, promotores profissionais equipados com tablets abordam ativamente os passageiros, mostrando prêmios premium e explicando o processo rápido de participação. Segundo, participantes interessados se movem para um dos quatro totens de registro touchscreen de 55 polegadas, completando um registro de 50 segundos que captura dados essenciais de marketing enquanto gera códigos únicos de participação. Terceiro, participantes recebem tickets impressos ou códigos WhatsApp, criando conexão digital imediata e oportunidades de follow-up. Quarto, durante o período de espera de 2,5 minutos, cronômetros e vídeos promocionais mantêm a emoção enquanto constroem antecipação para o giro da roleta. Quinto, todos os participantes se reúnem para assistir a animação da roleta de 30 segundos com mecânica de giro realista e anúncios dramáticos de vencedores. Finalmente, vencedores verificam seus códigos no balcão de distribuição de prêmios, enquanto todos os participantes recebem chaveiros Betano como lembrança da marca. Este processo se repete 72 vezes diariamente, gerando 1.730+ cadastros e criando visibilidade sustentada da marca por toda a estação.",
+    
+    // Technical Production Details
+    technicalProductionTitle: "Requisitos Técnicos de Produção",
+    technicalProductionSubtitle: "Conteúdo de Vídeo e Ciclos Operacionais",
+    technicalProductionDescription: "A ativação requer execução técnica precisa com 72 vídeos únicos de resultados da roleta diariamente, além de conteúdo contínuo durante períodos não-gaming.",
+    
+    videoProductionDetails: [
+      "Produção Diária de Vídeo: 72 vídeos únicos de 30 segundos da roleta com diferentes resultados da bolinha",
+      "Conteúdo Semanal: 504 vídeos individuais (72 × 7 dias) com números/cores vencedores predeterminados",
+      "Integração JCDecaux: 1 hora diária de conteúdo da roleta gigante visível por toda estação",
+      "Conteúdo Pré-renderizado: Todos os vídeos produzidos com física realista e branding Betano"
+    ],
+    
+    intervalContentTitle: "Conteúdo Durante Períodos Não-Gaming",
+    intervalContentDescription: "Durante os 4 minutos e 30 segundos entre cada giro da roleta, múltiplos fluxos de conteúdo mantêm o engajamento:",
+    intervalContentDetails: [
+      "Período de Cadastro (2min): Vídeos promocionais mostrando recursos da plataforma Betano e prêmios",
+      "Cronômetro Regressivo (2min 30s): Contagem regressiva dinâmica com música e efeitos visuais crescentes",
+      "Conteúdo Ambiente: Vídeos da marca Betano, depoimentos de usuários e demonstrações da plataforma",
+      "Experiência Áudio: Trilha sonora customizada construindo emoção em direção a cada momento da roleta",
+      "Display LED do Estande: Presença contínua da marca com logos animados e celebrações de vencedores",
+      "Anúncios Ao Vivo: Comentários do promoter e mostras de prêmios entre ciclos de jogo"
+    ],
+    
+    // Daily Schedule
+    dailyScheduleTitle: "Cronograma Operacional Diário",
+    dailyScheduleSubtitle: "Timeline Hora por Hora da Ativação",
+    dailyScheduleDescription: "Breakdown completo de um dia típico de ativação, detalhando atividades da equipe, ciclos de conteúdo e procedimentos operacionais do setup ao desmonte.",
+    
+    dailyScheduleItems: [
+      { time: "07:00-08:00", activity: "Setup da Equipe", details: "Teste de equipamentos, ativação estande LED, calibração totens, checagem inventário prêmios, coordenação JCDecaux" },
+      { time: "08:00-09:00", activity: "Pré-Lançamento", details: "Testes finais do sistema, loops de vídeos promocionais ativos, briefing da equipe, primeiro conteúdo da roleta carregado" },
+      { time: "09:00-10:00", activity: "Hora de Lançamento", details: "12 giros da roleta, meta 288 cadastros, roleta gigante JCDecaux (30min), promoção ativa inicia" },
+      { time: "10:00-11:00", activity: "Período Pico 1", details: "12 giros da roleta, 288 cadastros, conteúdo LED contínuo, distribuição de prêmios em pleno funcionamento" },
+      { time: "11:00-12:00", activity: "Meio da Manhã", details: "12 giros da roleta, 288 cadastros, showcases tablet do promoter, cumprimento contínuo de prêmios" },
+      { time: "12:00-13:00", activity: "Rush do Almoço", details: "12 giros da roleta, 288 cadastros, roleta gigante JCDecaux (30min), engajamento pico de passageiros" },
+      { time: "13:00-14:00", activity: "Período Pico 2", details: "12 giros da roleta, 288 cadastros, energia máxima do estande, celebrações contínuas de vencedores" },
+      { time: "14:00-15:00", activity: "Ciclo da Tarde", details: "12 giros da roleta, 288 cadastros, atividade promocional sustentada, monitoramento de inventário" },
+      { time: "15:00-16:00", activity: "Desmonte", details: "Distribuição final de prêmios, desligamento de equipamentos, coleta de dados, revisão de performance, limpeza" }
+    ],
     
     // Oportunidade Estratégica
     opportunityTitle: "OPORTUNIDADE ESTRATÉGICA - ESTAÇÃO SÉ",
