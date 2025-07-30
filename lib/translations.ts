@@ -74,7 +74,7 @@ export const translations = {
     
     // Client info
     clientLabel: "Client",
-    clientName: "Wieden+Kennedy",
+    clientName: "Betano",
     studioLabel: "Studio", 
     studioName: "THE FORCE",
     
@@ -204,7 +204,7 @@ export const translations = {
     // Approval
     approvalTitle: "Approval",
     location2: "São Paulo, Brazil",
-    client: "Wieden+Kennedy",
+    client: "BETANO",
     theForceLabel: "THE FORCE",
     creativeDirector: "LUCIANO FERRAREZI - CREATIVE DIRECTOR",
     acceptProposal: "Accept Proposal",
@@ -293,7 +293,7 @@ export const translations = {
     
     // Client info
     clientLabel: "Cliente",
-    clientName: "Wieden+Kennedy", 
+    clientName: "Betano", 
     studioLabel: "Estúdio",
     studioName: "THE FORCE",
     
@@ -423,7 +423,7 @@ export const translations = {
     // Approval
     approvalTitle: "Aprovação",
     location2: "São Paulo, Brasil",
-    client: "Wieden+Kennedy",
+    client: "BETANO",
     theForceLabel: "THE FORCE", 
     creativeDirector: "LUCIANO FERRAREZI - DIREÇÃO CRIATIVA E TÉCNICA",
     acceptProposal: "Aceitar Proposta",
