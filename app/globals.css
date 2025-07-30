@@ -616,6 +616,7 @@ footer {
 
 /* Todas as outras seções devem ter altura automática */
 #about,
+#tables,
 #deliverables,
 #pricing,
 #terms {
@@ -825,4 +826,19 @@ footer {
     column-count: 2;
     column-gap: 2rem;
   }
+}
+
+/* Card Container for Tables */
+.card-container {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 1rem;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+}
+
+.card-container:hover {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: rgba(255, 255, 255, 0.15);
+  transform: translateY(-2px);
 }
