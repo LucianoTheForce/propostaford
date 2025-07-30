@@ -189,8 +189,8 @@ export const translations = {
     
     // Pricing section
     pricingLabel: "03 / Investment",
-    pricingTitle: "Global Value",
-    pricingDescription: "Comprehensive value covering complete technical and creative development, high-performance material production, and delivery of all 300 units with quality guarantee.",
+    pricingTitle: "Complete Activation",
+    pricingDescription: "Metro activation system with comprehensive technical and creative development.",
     
     // Proposals
     proposal1Label: "RODA ROLETA BETANO ACTIVATION",
@@ -256,10 +256,9 @@ export const translations = {
       "Operation: 6 hours daily, 72 draws total, 5min 50s participant journey per cycle.",
       "Participation limited to 1 time per day per CPF with age verification (18+) and LGPD compliance.",
       "Complete system: JCDecaux integration (1h/day), LED booth (6h/day), 4 registration totems, prize counter.",
-      "Expected results: 12,100 leads/week, 1,450 new depositors, +140% ROI in 12 months.",
+      "High-impact promotional activation with measurable engagement and lead generation results.",
       "The copyright of the visual identity and activation design belongs to THE FORCE.",
       "Changes in concept or operational scope after approval may generate additional costs.",
-      "The value includes contingency (15%) and agency fee (18%) calculated on subtotal.",
       "Final delivery includes complete operational documentation and detailed performance reports."
     ],
     
@@ -479,8 +478,8 @@ export const translations = {
     
     // Pricing section
     pricingLabel: "03 / Investimento",
-    pricingTitle: "Valor Global",
-    pricingDescription: "Valor abrangente cobrindo desenvolvimento técnico e criativo completo, produção com materiais de alta performance e entrega de todas as 300 unidades com garantia de qualidade.",
+    pricingTitle: "Ativação Completa",
+    pricingDescription: "Sistema de ativação no metrô com desenvolvimento técnico e criativo abrangente.",
     
     // Single proposal for the event
     proposal1Label: "ATIVAÇÃO RODA ROLETA BETANO",
@@ -546,10 +545,9 @@ export const translations = {
       "Operação: 6 horas diárias, 72 sorteios totais, jornada do participante de 5min 50s por ciclo.",
       "Participação limitada a 1 vez por dia por CPF com verificação de idade (18+) e conformidade LGPD.",
       "Sistema completo: integração JCDecaux (1h/dia), estande LED (6h/dia), 4 totens cadastro, balcão prêmios.",
-      "Resultados esperados: 12.100 leads/semana, 1.450 novos depositantes, +140% ROI em 12 meses.",
+      "Ativação promocional de alto impacto com engajamento mensurável e resultados de geração de leads.",
       "Os direitos autorais da identidade visual e design da ativação pertencem à THE FORCE.",
       "Alterações no conceito ou escopo operacional após aprovação podem gerar custos adicionais.",
-      "O valor inclui contingência (15%) e fee agência (18%) calculados sobre o subtotal.",
       "Entrega final inclui documentação operacional completa e relatórios detalhados de performance."
     ],
     
