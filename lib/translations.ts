@@ -81,15 +81,15 @@ export const translations = {
     dailyScheduleDescription: "Complete breakdown of a typical activation day, detailing team activities, content cycles, and operational procedures from setup to breakdown.",
     
     dailyScheduleItems: [
-      { time: "07:00-08:00", activity: "Team Setup", details: "Equipment testing, LED booth activation, totem calibration, prize inventory check, JCDecaux coordination" },
-      { time: "08:00-09:00", activity: "Pre-Launch", details: "Final system tests, promotional video loops active, team briefing, first roulette content loaded" },
-      { time: "09:00-10:00", activity: "Launch Hour", details: "12 roulette spins, 288 registrations target, JCDecaux giant roulette (30min), active promotion begins" },
-      { time: "10:00-11:00", activity: "Peak Period 1", details: "12 roulette spins, 288 registrations, continuous LED content, prize distribution in full swing" },
-      { time: "11:00-12:00", activity: "Mid-Morning", details: "12 roulette spins, 288 registrations, promoter tablet showcases, ongoing prize fulfillment" },
-      { time: "12:00-13:00", activity: "Lunch Rush", details: "12 roulette spins, 288 registrations, JCDecaux giant roulette (30min), peak commuter engagement" },
-      { time: "13:00-14:00", activity: "Peak Period 2", details: "12 roulette spins, 288 registrations, maximum booth energy, continuous winner celebrations" },
-      { time: "14:00-15:00", activity: "Afternoon Cycle", details: "12 roulette spins, 288 registrations, sustained promotional activity, inventory monitoring" },
-      { time: "15:00-16:00", activity: "Breakdown", details: "Final prize distribution, equipment shutdown, data collection, performance review, cleanup" }
+      { time: "07:00-08:00", activity: "Team Setup", details: "Coordinator briefing, equipment testing by 4 totem operators, LED booth activation, prize inventory check with 2 distribution attendants, JCDecaux coordination" },
+      { time: "08:00-09:00", activity: "Pre-Launch", details: "Final system tests on all 4 totems, promotional video loops active, 2 roaming promoters positioning, first roulette content loaded, cleaning assistant prep" },
+      { time: "09:00-10:00", activity: "Launch Hour", details: "12 roulette spins, 288 registrations target, JCDecaux giant roulette (30min), 2 roaming promoters active, 4 totem operators managing flow" },
+      { time: "10:00-11:00", activity: "Peak Period 1", details: "12 roulette spins, 288 registrations, continuous LED content, 2 prize distribution attendants in full operation, cleaning assistant maintenance" },
+      { time: "11:00-12:00", activity: "Mid-Morning", details: "12 roulette spins, 288 registrations, roaming promoters tablet showcases, 4 totem operators managing queues, ongoing prize fulfillment" },
+      { time: "12:00-13:00", activity: "Lunch Rush", details: "12 roulette spins, 288 registrations, JCDecaux giant roulette (30min), peak team performance, all 11 staff members coordinated" },
+      { time: "13:00-14:00", activity: "Peak Period 2", details: "12 roulette spins, 288 registrations, maximum booth energy, prize distribution team at capacity, continuous winner celebrations" },
+      { time: "14:00-15:00", activity: "Afternoon Cycle", details: "12 roulette spins, 288 registrations, sustained promotional activity, inventory monitoring by coordinator, team performance review" },
+      { time: "15:00-16:00", activity: "Breakdown", details: "Final prize distribution by 2 attendants, equipment shutdown by totem operators, data collection, cleaning assistant full sanitization, performance review" }
     ],
     
     // Strategic Opportunity
@@ -177,7 +177,7 @@ export const translations = {
       },
       {
         title: "Professional Team Operation",
-        description: "Complete staffing solution: 1 coordinator, 4 promoters with tablets for active invitation, 2 technicians for system management, and 2 security personnel. Full crowd control and participant journey management.",
+        description: "Complete staffing solution: 1 general coordinator, 2 roaming promoters with tablets, 4 totem operators (1 per equipment), 2 prize distribution attendants, 1 cleaning assistant, and 1 civil firefighter. Full crowd control and participant journey management.",
         number: "05"
       },
       {
@@ -204,10 +204,10 @@ export const translations = {
       "Prize distribution counter with immediate reward fulfillment system",
       "Continuous 5-minute operation cycles with countdown timers and promotional team"
     ],
-    proposal1Price: "R$ 1,250,000.00",
+    proposal1Price: "Sob consulta",
     
     proposal2Label: "TOTAL VALUE", 
-    proposal2Title: "One million, two hundred fifty thousand reais",
+    proposal2Title: "Investimento sob consulta",
     proposal2Subtitle: "Value includes contingency (15%) and agency fee (18%)",
     proposal2Items: [
       "Complete technical and creative development of roulette activation system",
@@ -251,7 +251,7 @@ export const translations = {
     termsDescription: "Commercial terms ensure clear understanding of project scope, deliverables, and production timeline.",
     
     termsConditions: [
-      "The value of R$ 1,250,000.00 includes complete digital casino activation system and 7-day operation.",
+      "The investment includes complete digital casino activation system and 7-day operation.",
       "Setup timeline: 40 working days including SPA/MF registration, SMUL permits, and team training.",
       "Operation: 6 hours daily, 72 draws total, 5min 50s participant journey per cycle.",
       "Participation limited to 1 time per day per CPF with age verification (18+) and LGPD compliance.",
@@ -371,15 +371,15 @@ export const translations = {
     dailyScheduleDescription: "Breakdown completo de um dia típico de ativação, detalhando atividades da equipe, ciclos de conteúdo e procedimentos operacionais do setup ao desmonte.",
     
     dailyScheduleItems: [
-      { time: "07:00-08:00", activity: "Setup da Equipe", details: "Teste de equipamentos, ativação estande LED, calibração totens, checagem inventário prêmios, coordenação JCDecaux" },
-      { time: "08:00-09:00", activity: "Pré-Lançamento", details: "Testes finais do sistema, loops de vídeos promocionais ativos, briefing da equipe, primeiro conteúdo da roleta carregado" },
-      { time: "09:00-10:00", activity: "Hora de Lançamento", details: "12 giros da roleta, meta 288 cadastros, roleta gigante JCDecaux (30min), promoção ativa inicia" },
-      { time: "10:00-11:00", activity: "Período Pico 1", details: "12 giros da roleta, 288 cadastros, conteúdo LED contínuo, distribuição de prêmios em pleno funcionamento" },
-      { time: "11:00-12:00", activity: "Meio da Manhã", details: "12 giros da roleta, 288 cadastros, showcases tablet do promoter, cumprimento contínuo de prêmios" },
-      { time: "12:00-13:00", activity: "Rush do Almoço", details: "12 giros da roleta, 288 cadastros, roleta gigante JCDecaux (30min), engajamento pico de passageiros" },
-      { time: "13:00-14:00", activity: "Período Pico 2", details: "12 giros da roleta, 288 cadastros, energia máxima do estande, celebrações contínuas de vencedores" },
-      { time: "14:00-15:00", activity: "Ciclo da Tarde", details: "12 giros da roleta, 288 cadastros, atividade promocional sustentada, monitoramento de inventário" },
-      { time: "15:00-16:00", activity: "Desmonte", details: "Distribuição final de prêmios, desligamento de equipamentos, coleta de dados, revisão de performance, limpeza" }
+      { time: "07:00-08:00", activity: "Setup da Equipe", details: "Briefing coordenador, teste equipamentos pelos 4 operadores de totem, ativação estande LED, checagem inventário com 2 atendentes distribuição, coordenação JCDecaux" },
+      { time: "08:00-09:00", activity: "Pré-Lançamento", details: "Testes finais nos 4 totens, loops vídeos promocionais ativos, posicionamento 2 promotores volantes, carregamento primeiro conteúdo roleta, prep auxiliar limpeza" },
+      { time: "09:00-10:00", activity: "Hora de Lançamento", details: "12 giros da roleta, meta 288 cadastros, roleta gigante JCDecaux (30min), 2 promotores volantes ativos, 4 operadores totem gerenciando fluxo" },
+      { time: "10:00-11:00", activity: "Período Pico 1", details: "12 giros da roleta, 288 cadastros, conteúdo LED contínuo, 2 atendentes distribuição em operação total, manutenção auxiliar limpeza" },
+      { time: "11:00-12:00", activity: "Meio da Manhã", details: "12 giros da roleta, 288 cadastros, showcases tablet promotores volantes, 4 operadores totem gerenciando filas, cumprimento contínuo prêmios" },
+      { time: "12:00-13:00", activity: "Rush do Almoço", details: "12 giros da roleta, 288 cadastros, roleta gigante JCDecaux (30min), performance pico da equipe, todos 11 funcionários coordenados" },
+      { time: "13:00-14:00", activity: "Período Pico 2", details: "12 giros da roleta, 288 cadastros, energia máxima estande, equipe distribuição na capacidade, celebrações contínuas vencedores" },
+      { time: "14:00-15:00", activity: "Ciclo da Tarde", details: "12 giros da roleta, 288 cadastros, atividade promocional sustentada, monitoramento inventário pelo coordenador, revisão performance equipe" },
+      { time: "15:00-16:00", activity: "Desmonte", details: "Distribuição final prêmios pelos 2 atendentes, desligamento equipamentos pelos operadores totem, coleta dados, sanitização completa auxiliar limpeza, revisão performance" }
     ],
     
     // Oportunidade Estratégica
@@ -467,7 +467,7 @@ export const translations = {
       },
       {
         title: "Operação de Equipe Profissional",
-        description: "Solução completa de pessoal: 1 coordenador, 4 promotores com tablets para convite ativo, 2 técnicos para gestão do sistema e 2 seguranças. Controle total de fluxo e gestão da jornada do participante.",
+        description: "Solução completa de pessoal: 1 coordenador geral, 2 promotores volantes com tablets, 4 operadores de totem (1 por equipamento), 2 atendentes de distribuição de prêmios, 1 auxiliar de limpeza e 1 bombeiro civil. Controle total de fluxo e gestão da jornada do participante.",
         number: "05"
       },
       {
@@ -494,10 +494,10 @@ export const translations = {
       "Balcão de distribuição de prêmios com sistema de cumprimento imediato de recompensas",
       "Ciclos contínuos de operação de 5 minutos com cronometros e equipe promocional"
     ],
-    proposal1Price: "R$ 1.250.000,00",
+    proposal1Price: "Sob consulta",
     
     proposal2Label: "VALOR TOTAL",
-    proposal2Title: "Um milhão, duzentos e cinquenta mil reais", 
+    proposal2Title: "Investimento sob consulta", 
     proposal2Subtitle: "Valor inclui contingência (15%) e fee agência (18%)",
     proposal2Items: [
       "Desenvolvimento técnico e criativo completo do sistema de ativação de roleta",
@@ -541,7 +541,7 @@ export const translations = {
     termsDescription: "Termos comerciais garantem entendimento claro do escopo do projeto, entregas e cronograma de produção.",
     
     termsConditions: [
-      "O valor de R$ 1.250.000,00 inclui sistema completo de ativação de cassino digital e operação de 7 dias.",
+      "O investimento inclui sistema completo de ativação de cassino digital e operação de 7 dias.",
       "Prazo de setup: 40 dias úteis incluindo registro SPA/MF, alvarás SMUL e treinamento da equipe.",
       "Operação: 6 horas diárias, 72 sorteios totais, jornada do participante de 5min 50s por ciclo.",
       "Participação limitada a 1 vez por dia por CPF com verificação de idade (18+) e conformidade LGPD.",
