@@ -65,11 +65,11 @@ export const translations = {
     overviewLabel: "01 / GENERAL CONCEPT",
     overviewTitle1: "Metro",
     overviewTitle2: "Roulette Experience",
-    overviewDescription: "The Roda Roleta Betano transforms São Paulo's Sé Metro Station into an interactive gaming environment. This promotional activation brings the thrill of casino roulette to metro passengers through a sophisticated system of pre-recorded videos, digital registration, and real-time prize distribution. Designed for 6-hour daily operation with capacity for hundreds of participants.",
+    overviewDescription: "The Roda Roleta Betano transforms São Paulo's Sé Metro Station into an interactive gaming environment. This promotional activation brings the thrill of casino roulette through a detailed participant journey: active invitation by promoters with tablets, 1-minute registration at touchscreen totems, 5-minute roulette rounds with 30-second animations, immediate prize distribution, and continuous operation throughout the day.",
     overviewFeatures: [
-      "Pre-recorded roulette videos with predetermined results ensure transparency and fairness",
-      "JCDecaux central panel provides maximum visibility during 1-hour peak periods",
-      "Comprehensive participant journey from registration to prize collection"
+      "Complete participant journey: attraction, registration, gaming, and prize collection",
+      "Visual impact booth with LED lights, sound system, and architectural design",
+      "5-minute cycle: 30s roulette animation + 4:30min registration period with countdown timer"
     ],
     
     // Client info
@@ -85,33 +85,33 @@ export const translations = {
     
     deliverablesList: [
       {
-        title: "Digital Roulette System",
-        description: "Pre-recorded roulette videos with predetermined results. Professional quality animations displaying complete rounds from spin to final number. Compatible with JCDecaux panels and LED booth displays for seamless operation.",
+        title: "Participant Journey System",
+        description: "Complete 5-step journey: 1) Active attraction by promoters with tablets showing prizes, 2) 1-minute registration at touchscreen totems, 3) 5-minute roulette rounds with 30-second animations, 4) Immediate prize distribution, 5) Continuous operation with countdown timers.",
         number: "01"
       },
       {
-        title: "Registration Platform",
-        description: "Digital betting system running on tablets/touchscreen totems. Simple and fast interface collecting participant data (name, WhatsApp) and bet selections. Real-time result checking and automatic winner identification.",
+        title: "Visual Impact Booth",
+        description: "Architecturally designed booth with LED lights, sound system, visual panels, and crowd management structure. Creates excitement and collective celebration moments around the LED roulette during each round.",
         number: "02"
       },
       {
-        title: "Booth & Equipment Setup",
-        description: "Complete booth installation with LED panel, registration tablets, sound system with microphone, and crowd management structure. Professional setup designed for 6-hour daily operation in metro environment.",
+        title: "Digital Registration System",
+        description: "Touchscreen totems and tablets collecting name, WhatsApp, age verification (18+), LGPD consent. Generates unique betting codes (ex: #B107) with QR codes or WhatsApp messages. Limited to 1 participation per CPF daily.",
         number: "03"
       },
       {
-        title: "Prize Distribution System",
-        description: "Tiered prize system: exact number hits (premium prizes), partial hits - color/parity (medium prizes), and participation prizes for all. Immediate distribution process with inventory management and winner validation.",
+        title: "Roulette Animation System",
+        description: "30-second pre-rendered roulette animations with white ball spinning until stopping at winning number. Synchronized between JCDecaux central panel (1h daily) and LED booth display. Creates suspense and collective celebration.",
         number: "04"
       },
       {
-        title: "Operational Team",
-        description: "Trained promotional team including registration support, crowd management, prize distribution, and technical operation. Age verification (18+) compliance and LGPD data privacy management throughout activation.",
+        title: "Prize Distribution Counter",
+        description: "Dedicated prize counter where winners show betting codes and receive rewards immediately. Display screens show winner codes and prizes. Inventory management with tiered rewards system and instant gratification.",
         number: "05"
       },
       {
-        title: "JCDecaux Integration",
-        description: "1-hour daily integration with central metro digital panel during peak hours. Synchronized video playback with booth activities for maximum visibility and engagement across the entire station.",
+        title: "Continuous Operation System",
+        description: "5-minute cycles throughout 6-hour operation: 30s roulette + 4:30min registration period with countdown timer. Visual and audio announcements invite participation. Promotional team circulates with tablets during registration periods.",
         number: "06"
       }
     ],
@@ -125,13 +125,13 @@ export const translations = {
     proposal1Label: "RODA ROLETA BETANO ACTIVATION",
     proposal1Title: "Complete Metro Activation",
     proposal1Items: [
-      "Interactive roulette system with pre-recorded videos and predetermined results",
-      "Digital registration platform with tablets/totems for participant data collection",
-      "Complete booth setup with LED panel, sound system, and crowd management",
-      "JCDecaux central panel integration for 1 hour daily maximum visibility",
-      "Trained promotional team and comprehensive operational coordination",
-      "Tiered prize distribution system with immediate reward fulfillment",
-      "Age verification (18+) and complete LGPD data privacy compliance"
+      "Complete 5-step participant journey from attraction to prize collection",
+      "Visual impact booth with LED lights, sound system, and architectural design",
+      "30-second roulette animations with white ball spinning until number selection",
+      "Touchscreen registration totems generating unique codes with QR/WhatsApp integration",
+      "JCDecaux central panel integration for 1-hour daily maximum visibility",
+      "Prize distribution counter with immediate reward fulfillment system",
+      "Continuous 5-minute operation cycles with countdown timers and promotional team"
     ],
     proposal1Price: "R$ 2,000,000.00",
     
@@ -164,13 +164,13 @@ export const translations = {
     methodologyTitle: "Activation Timeline",
     methodologyDescription: "The activation follows a structured timeline to ensure successful metro operation:",
     methodologySteps: [
-      "Concept Development: Roulette mechanics definition and participant journey mapping",
-      "Video Production: Professional pre-recorded roulette spins with predetermined results",
-      "Platform Development: Registration system and automatic result identification technology",
-      "Equipment Setup: Complete booth installation and technical testing in metro environment",
-      "Team Training: Staff preparation for crowd management, registration, and prize distribution",
-      "JCDecaux Coordination: Central panel integration and synchronized content scheduling",
-      "Activation Launch: 6-hour daily operation with real-time monitoring and optimization"
+      "Journey Design: 5-step participant flow from attraction to prize collection with detailed timing",
+      "Booth Architecture: Visual impact design with LED lights, sound system, and crowd flow management",
+      "Animation Production: 30-second roulette videos with white ball spinning mechanics",
+      "Registration Technology: Touchscreen totems generating unique codes with QR/WhatsApp integration",
+      "Operational Rules: 1 participation per CPF daily, 5-minute cycles, continuous countdown timers",
+      "Team Coordination: Promoters with tablets for active invitation and prize distribution management",
+      "Launch & Monitoring: 6-hour daily operation with real-time participant flow optimization"
     ],
     viewTerms: "View Terms",
     
@@ -180,16 +180,16 @@ export const translations = {
     termsDescription: "Commercial terms ensure clear understanding of project scope, deliverables, and production timeline.",
     
     termsConditions: [
-      "The value of R$ 2,000,000.00 includes complete technical development and activation operation.",
-      "Setup timeline: up to 30 working days after advance payment and final concept approval.",
-      "Activation period: 6 hours daily operation at Sé Metro Station with quality guarantee.",
-      "Pre-recorded roulette videos delivered with predetermined results for complete transparency.",
-      "Complete operational coordination including team, equipment, and comprehensive prize management.",
+      "The value of R$ 2,000,000.00 includes complete participant journey system and activation operation.",
+      "Setup timeline: up to 30 working days including booth construction and team training.",
+      "Operation: 6 hours daily with 5-minute cycles (30s animation + 4:30min registration periods).",
+      "Participation limited to 1 time per day per CPF with age verification (18+) and LGPD compliance.",
+      "Complete system: visual booth, touchscreen totems, prize counter, and promotional team circulation.",
+      "JCDecaux integration: 1-hour daily central panel display synchronized with booth operation.",
       "The copyright of the visual identity and activation design belongs to THE FORCE.",
-      "The signature of this proposal implies contracting of the services described herein.",
-      "Changes in concept or scope after approval may generate additional costs.",
+      "Changes in concept or operational scope after approval may generate additional costs.",
       "The value includes taxes (18%) in force on the date of issuance of this proposal.",
-      "Final delivery includes complete documentation and detailed operational reports."
+      "Final delivery includes operational documentation and detailed participant journey reports."
     ],
     
     // Contact information
@@ -284,11 +284,11 @@ export const translations = {
     overviewLabel: "01 / CONCEITO GERAL",
     overviewTitle1: "Experiência de",
     overviewTitle2: "Roleta no Metrô",
-    overviewDescription: "A Roda Roleta Betano transforma a Estação Sé do Metrô de São Paulo em um ambiente de gaming interativo. Esta ativação promocional traz a emoção da roleta de cassino aos passageiros através de um sistema sofisticado de vídeos pré-gravados, cadastro digital e distribuição de prêmios em tempo real. Projetada para operação diária de 6 horas com capacidade para centenas de participantes.",
+    overviewDescription: "A Roda Roleta Betano transforma a Estação Sé do Metrô de São Paulo em um ambiente de gaming interativo. A ativação traz a emoção da roleta através de uma jornada detalhada: convite ativo por promotores com tablets, cadastro de 1 minuto em totens touchscreen, rodadas de roleta de 5 minutos com animações de 30 segundos, distribuição imediata de prêmios e operação contínua durante todo o dia.",
     overviewFeatures: [
-      "Vídeos de roleta pré-gravados com resultados predeterminados garantem transparência e justiça",
-      "Painel central JCDecaux oferece visibilidade máxima durante períodos de pico de 1 hora",
-      "Jornada abrangente do participante desde cadastro até coleta de prêmios"
+      "Jornada completa do participante: atração, cadastro, jogo e coleta de prêmios",
+      "Estande de impacto visual com luzes LED, sistema de som e design arquitetônico",
+      "Ciclo de 5 minutos: 30s animação da roleta + 4:30min período de cadastro com cronometro"
     ],
     
     // Client info
@@ -304,33 +304,33 @@ export const translations = {
     
     deliverablesList: [
       {
-        title: "Sistema de Roleta Digital",
-        description: "Vídeos de roleta pré-gravados com resultados predeterminados. Animações de qualidade profissional exibindo rodadas completas do giro ao número final. Compatíveis com painéis JCDecaux e displays LED para operação perfeita.",
+        title: "Sistema Jornada do Participante",
+        description: "Jornada completa de 5 etapas: 1) Atração ativa por promotores com tablets mostrando prêmios, 2) Cadastro de 1 minuto em totens touchscreen, 3) Rodadas de roleta de 5 minutos com animações de 30 segundos, 4) Distribuição imediata de prêmios, 5) Operação contínua com cronometros.",
         number: "01"
       },
       {
-        title: "Plataforma de Cadastro",
-        description: "Sistema digital de apostas em tablets/totens touchscreen. Interface simples e rápida coletando dados dos participantes (nome, WhatsApp) e seleções de apostas. Verificação de resultados em tempo real e identificação automática de ganhadores.",
+        title: "Estande de Impacto Visual",
+        description: "Estande com design arquitetônico, luzes LED, sistema de som, painéis visuais e estrutura de gestão de fluxo. Cria emoção e momentos de celebração coletiva ao redor da roleta LED durante cada rodada.",
         number: "02"
       },
       {
-        title: "Estande & Setup de Equipamentos",
-        description: "Instalação completa de estande com painel LED, tablets de cadastro, sistema de som com microfone e estrutura de gestão de fluxo. Setup profissional projetado para operação diária de 6 horas em ambiente de metrô.",
+        title: "Sistema de Cadastro Digital",
+        description: "Totens touchscreen e tablets coletando nome, WhatsApp, verificação de idade (18+), consentimento LGPD. Gera códigos únicos de aposta (ex: #B107) com QR codes ou mensagens WhatsApp. Limitado a 1 participação por CPF diária.",
         number: "03"
       },
       {
-        title: "Sistema de Distribuição de Prêmios",
-        description: "Sistema de prêmios escalonado: acertos exatos de número (prêmios premium), acertos parciais - cor/paridade (prêmios médios) e prêmios de participação para todos. Processo de distribuição imediata com gestão de estoque e validação de ganhadores.",
+        title: "Sistema de Animação da Roleta",
+        description: "Animações de 30 segundos pré-renderizadas com bolinha branca girando até parar no número vencedor. Sincronizado entre painel central JCDecaux (1h diária) e display LED do estande. Cria suspense e celebração coletiva.",
         number: "04"
       },
       {
-        title: "Equipe Operacional",
-        description: "Equipe promocional treinada incluindo suporte ao cadastro, gestão de fluxo, distribuição de prêmios e operação técnica. Conformidade com verificação de idade (18+) e gestão de privacidade de dados LGPD durante toda a ativação.",
+        title: "Balcão de Distribuição de Prêmios",
+        description: "Balcão dedicado onde ganhadores mostram códigos de aposta e recebem recompensas imediatamente. Telas exibem códigos ganhadores e prêmios. Gestão de estoque com sistema de recompensas escalonadas e gratificação instantânea.",
         number: "05"
       },
       {
-        title: "Integração JCDecaux",
-        description: "Integração diária de 1 hora com painel digital central do metrô durante horários de pico. Reprodução de vídeo sincronizada com atividades do estande para máxima visibilidade e engajamento em toda a estação.",
+        title: "Sistema de Operação Contínua",
+        description: "Ciclos de 5 minutos durante operação de 6 horas: 30s roleta + 4:30min período de cadastro com cronometro. Anúncios visuais e sonoros convidam participação. Equipe promocional circula com tablets durante períodos de cadastro.",
         number: "06"
       }
     ],
@@ -344,13 +344,13 @@ export const translations = {
     proposal1Label: "ATIVAÇÃO RODA ROLETA BETANO",
     proposal1Title: "Ativação Completa no Metrô",
     proposal1Items: [
-      "Sistema de roleta interativa com vídeos pré-gravados e resultados predeterminados",
-      "Plataforma de cadastro digital com tablets/totens para coleta de dados dos participantes",
-      "Setup completo de estande com painel LED, sistema de som e gestão de fluxo",
+      "Jornada completa de 5 etapas do participante desde atração até coleta de prêmios",
+      "Estande de impacto visual com luzes LED, sistema de som e design arquitetônico",
+      "Animações de 30 segundos com bolinha branca girando até seleção do número",
+      "Totens de cadastro touchscreen gerando códigos únicos com integração QR/WhatsApp",
       "Integração com painel central JCDecaux por 1 hora diária para máxima visibilidade",
-      "Equipe promocional treinada e coordenação operacional abrangente",
-      "Sistema de distribuição de prêmios escalonado com cumprimento imediato de recompensas",
-      "Verificação de idade (18+) e conformidade completa com privacidade de dados LGPD"
+      "Balcão de distribuição de prêmios com sistema de cumprimento imediato de recompensas",
+      "Ciclos contínuos de operação de 5 minutos com cronometros e equipe promocional"
     ],
     proposal1Price: "R$ 2.000.000,00",
     
@@ -383,13 +383,13 @@ export const translations = {
     methodologyTitle: "Cronograma da Ativação",
     methodologyDescription: "A ativação segue um cronograma estruturado para garantir operação bem-sucedida no metrô:",
     methodologySteps: [
-      "Desenvolvimento do Conceito: Definição da mecânica da roleta e mapeamento da jornada do participante",
-      "Produção de Vídeos: Giros de roleta pré-gravados profissionais com resultados predeterminados",
-      "Desenvolvimento da Plataforma: Sistema de cadastro e tecnologia de identificação automática de resultados",
-      "Setup de Equipamentos: Instalação completa do estande e testes técnicos em ambiente de metrô",
-      "Treinamento da Equipe: Preparação do staff para gestão de fluxo, cadastro e distribuição de prêmios",
-      "Coordenação JCDecaux: Integração do painel central e agendamento de conteúdo sincronizado",
-      "Lançamento da Ativação: Operação diária de 6 horas com monitoramento em tempo real e otimização"
+      "Design da Jornada: Fluxo de 5 etapas do participante desde atração até coleta de prêmios com timing detalhado",
+      "Arquitetura do Estande: Design de impacto visual com luzes LED, sistema de som e gestão de fluxo",
+      "Produção de Animações: Vídeos de 30 segundos da roleta com mecânica de bolinha branca girando",
+      "Tecnologia de Cadastro: Totens touchscreen gerando códigos únicos com integração QR/WhatsApp",
+      "Regras Operacionais: 1 participação por CPF diária, ciclos de 5 minutos, cronometros contínuos",
+      "Coordenação da Equipe: Promotores com tablets para convite ativo e gestão de distribuição de prêmios",
+      "Lançamento & Monitoramento: Operação diária de 6 horas com otimização de fluxo de participantes em tempo real"
     ],
     viewTerms: "Ver Termos",
     
@@ -399,16 +399,16 @@ export const translations = {
     termsDescription: "Termos comerciais garantem entendimento claro do escopo do projeto, entregas e cronograma de produção.",
     
     termsConditions: [
-      "O valor de R$ 2.000.000,00 inclui desenvolvimento técnico completo e operação da ativação.",
-      "Prazo de setup: até 30 dias úteis após sinal e aprovação do conceito final.",
-      "Período de ativação: operação diária de 6 horas na Estação Sé do Metrô com garantia de qualidade.",
-      "Vídeos de roleta pré-gravados entregues com resultados predeterminados para completa transparência.",
-      "Coordenação operacional completa incluindo equipe, equipamentos e gestão abrangente de prêmios.",
+      "O valor de R$ 2.000.000,00 inclui sistema completo de jornada do participante e operação da ativação.",
+      "Prazo de setup: até 30 dias úteis incluindo construção do estande e treinamento da equipe.",
+      "Operação: 6 horas diárias com ciclos de 5 minutos (30s animação + 4:30min períodos de cadastro).",
+      "Participação limitada a 1 vez por dia por CPF com verificação de idade (18+) e conformidade LGPD.",
+      "Sistema completo: estande visual, totens touchscreen, balcão de prêmios e circulação de equipe promocional.",
+      "Integração JCDecaux: 1 hora diária de exibição no painel central sincronizada com operação do estande.",
       "Os direitos autorais da identidade visual e design da ativação pertencem à THE FORCE.",
-      "A assinatura desta proposta implica na contratação dos serviços aqui descritos.",
-      "Alterações no conceito ou escopo após aprovação podem gerar custos adicionais.",
+      "Alterações no conceito ou escopo operacional após aprovação podem gerar custos adicionais.",
       "O valor inclui impostos (18%) vigentes na data de emissão desta proposta.",
-      "Entrega final inclui documentação completa e relatórios operacionais detalhados."
+      "Entrega final inclui documentação operacional e relatórios detalhados da jornada do participante."
     ],
     
     // Contact information
