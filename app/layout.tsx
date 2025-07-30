@@ -9,11 +9,11 @@ export const metadata: Metadata = {
   generator: 'v0.dev',
   icons: {
     icon: [
-      { url: '/ford-favicon.png', sizes: '32x32', type: 'image/png' },
-      { url: '/ford-favicon.png', sizes: '16x16', type: 'image/png' }
+      { url: '/faviconford.png', sizes: '32x32', type: 'image/png' },
+      { url: '/faviconford.png', sizes: '16x16', type: 'image/png' }
     ],
-    shortcut: '/ford-favicon.png',
-    apple: '/ford-favicon.png'
+    shortcut: '/faviconford.png',
+    apple: '/faviconford.png'
   }
 }
 
