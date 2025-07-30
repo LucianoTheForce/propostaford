@@ -4,9 +4,17 @@ import "./globals.css"
 import { LanguageProvider } from "@/contexts/language-context"
 
 export const metadata: Metadata = {
-  title: "THE FORCE | ALMA 2026 - Visual Identity & Club Room Design",
-  description: "Proposal for visual identity and club room design for ALMA 2026",
-  generator: 'v0.dev'
+  title: "BETANO × THE FORCE | Roda Roleta - Metro Activation Proposal",
+  description: "Interactive promotional activation proposal for Betano Roda Roleta at São Paulo Metro Station",
+  generator: 'v0.dev',
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: '16x16', type: 'image/x-icon' },
+      { url: '/betano-favicon.svg', sizes: '32x32', type: 'image/svg+xml' }
+    ],
+    shortcut: '/favicon.ico',
+    apple: '/betano-favicon.svg'
+  }
 }
 
 export default function RootLayout({
