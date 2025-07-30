@@ -10,7 +10,12 @@
       "Bash(git remote:*)",
       "Bash(git push:*)",
       "Bash(npm install:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git checkout:*)",
+      "Bash(curl:*)",
+      "Bash(dir:*)",
+      "Bash(del \"C:\\propostafordfinal\\propostafinal297\\public\\studio_small_03_1k.hdr\")",
+      "Bash(rm:*)"
     ],
     "deny": []
   }
