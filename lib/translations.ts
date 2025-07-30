@@ -92,39 +92,39 @@ export const translations = {
     studioName: "THE FORCE",
     
     // Deliverables section
-    deliverablesLabel: "02 / Products",
-    deliverablesTitle: "Roulette Activation Components",
-    deliverablesDescription: "Complete interactive promotional activation system designed for high-traffic metro environment with real-time engagement and comprehensive prize distribution.",
+    deliverablesLabel: "02 / Components",
+    deliverablesTitle: "Complete Activation System",
+    deliverablesDescription: "The Betano Roulette activation transforms Sé Metro Station into an interactive gaming environment through six integrated components that work together to create an immersive experience: from visual attraction to prize delivery, each element is designed to maximize engagement and conversion.",
     
     deliverablesList: [
       {
-        title: "Participant Journey - Power in 5min 50s",
-        description: "Approach: Promoter shows prizes on tablet → Registration: Touch totem 50s → Ticket: Print/WhatsApp code (#B107) 5s → Wait: Countdown + videos 2min 30s → Spin: 30s video → Announcement: Winner codes 15s → Prize: Counter verification 1min 30s",
+        title: "Visual Impact System",
+        description: "LED booth with dynamic lighting and architectural design that transforms the metro space. Includes JCDecaux central panel integration (1h/day) with giant roulette visible from entire station, plus continuous LED displays (6h/day) maintaining energy throughout operation.",
         number: "01"
       },
       {
-        title: "Prize Matrix - 7 Days Stock (+10% buffer)",
-        description: "Exact number: Bluetooth Headphones (1/round = 555 total) | Correct color: Betano Cup (≈3/round = 1,660 total) | Even/Odd: Phone Cord (≈2/round = 1,110 total) | No hit: Betano Keychain (15,000 total). Everyone leaves with something and Betano brand in mind.",
+        title: "Registration Technology", 
+        description: "Four 55-inch touchscreen totems for simultaneous user registration, generating unique codes with QR/WhatsApp integration. Offline system ensuring continuous operation with ticket printing and real-time participant verification.",
         number: "02"
       },
       {
-        title: "Flow & KPIs - Energy in Numbers",
-        description: "Registrations/round: 24 (4 totems) | Rounds/hour: 12 | Registrations/day (6h): ≈1,730 | Leads/week: ≈12,100 | Expected conversion lead→FTD: 12% ≈1,450 new depositors | 12-month ROI: +140% (CLV × FTD - total cost)",
+        title: "Interactive Gaming Experience",
+        description: "30-second roulette animation videos with realistic white ball spinning mechanics. Complete 5-minute operational cycles with countdown timers, creating casino excitement in a metro environment.",
         number: "03"
       },
       {
-        title: "Operation & Compliance - Full Force, Zero Risk",
-        description: "Legal: SPA/MF registration (40d), SMUL permit, LGPD terms | Team: 1 coordinator, 4 promoters, 2 technicians, 2 security | Technology: Local offline system, 4 totems 55″, ticket printer, winner screens | Communication: Videos and soundtrack to attract; promoters reinforce invitation",
+        title: "Prize Distribution System",
+        description: "Immediate reward fulfillment counter with comprehensive inventory: Bluetooth headphones (exact number), Betano cups (color match), phone cords (even/odd), and exclusive keychains. 100% participants receive prizes.",
         number: "04"
       },
       {
-        title: "JCDecaux Integration & LED Booth",
-        description: "Central panel (1h/day): Giant roulette visible from entire station, 30s pre-rendered climax video | LED booth panel (6h): Mirrors results, maintains show all day | Immersive scenography: Dynamic lights, ultra-fast registration totem, illuminated prize counter",
+        title: "Professional Team Operation",
+        description: "Complete staffing solution: 1 coordinator, 4 promoters with tablets for active invitation, 2 technicians for system management, and 2 security personnel. Full crowd control and participant journey management.",
         number: "05"
       },
       {
-        title: "Investment Breakdown",
-        description: "Production & LED: R$250k | Technology & software: R$140k | Prizes: R$400k | Team (7d): R$45k | Licenses & fees: R$20k | Digital amplification: R$50k | Admin & insurance: R$30k | Subtotal: R$935k | Contingency 15%: R$140k | Agency fee 18%: R$174k | TOTAL: ≈R$1,250,000",
+        title: "Compliance & Legal Framework",
+        description: "Complete regulatory compliance including SPA/MF registration, SMUL permits, LGPD data protection terms, age verification (18+), and 1 participation per CPF daily limit. Zero legal risk operation.",
         number: "06"
       }
     ],
@@ -324,39 +324,39 @@ export const translations = {
     studioName: "THE FORCE",
     
     // Deliverables section
-    deliverablesLabel: "02 / Produtos",
-    deliverablesTitle: "Componentes da Ativação Roleta",
-    deliverablesDescription: "Sistema completo de ativação promocional interativa projetado para ambiente de metrô de alto tráfego com engajamento em tempo real e distribuição abrangente de prêmios.",
+    deliverablesLabel: "02 / Componentes",
+    deliverablesTitle: "Sistema de Ativação Completo",
+    deliverablesDescription: "A ativação Roda Roleta Betano transforma a Estação Sé do Metrô em um ambiente de jogos interativo através de seis componentes integrados que trabalham em conjunto para criar uma experiência imersiva: desde a atração visual até a entrega de prêmios, cada elemento é projetado para maximizar engajamento e conversão.",
     
     deliverablesList: [
       {
-        title: "Jornada do Participante - Poder em 5min 50s",
-        description: "Abordagem: Promotor mostra prêmios no tablet → Cadastro: Totem touch 50s → Ticket: Impresso/WhatsApp código (#B107) 5s → Espera: Contagem regressiva + vídeos 2min 30s → Giro: Vídeo 30s → Anúncio: Códigos vencedores 15s → Prêmio: Conferência balcão 1min 30s",
+        title: "Sistema de Impacto Visual",
+        description: "Estande LED com iluminação dinâmica e design arquitetônico que transforma o espaço do metrô. Inclui integração com painel central JCDecaux (1h/dia) com roleta gigante visível de toda estação, além de displays LED contínuos (6h/dia) mantendo energia durante toda operação.",
         number: "01"
       },
       {
-        title: "Matriz de Prêmios - Estoque 7 Dias (+10% buffer)",
-        description: "Número exato: Fone Bluetooth (1/rodada = 555 total) | Cor correta: Copo Betano (≈3/rodada = 1.660 total) | Par/Ímpar: Cordão celular (≈2/rodada = 1.110 total) | Nenhum acerto: Chaveiro Betano (15.000 total). Todos saem com algo e marca Betano na mente.",
+        title: "Tecnologia de Cadastro",
+        description: "Quatro totens touchscreen de 55 polegadas para registro simultâneo de usuários, gerando códigos únicos com integração QR/WhatsApp. Sistema offline garantindo operação contínua com impressão de tickets e verificação de participantes em tempo real.",
         number: "02"
       },
       {
-        title: "Fluxo & KPIs - A Energia em Números",
-        description: "Cadastros/rodada: 24 (4 totens) | Rodadas/hora: 12 | Cadastros/dia (6h): ≈1.730 | Leads/semana: ≈12.100 | Conversão esperada lead→FTD: 12% ≈1.450 novos depositantes | ROI 12 meses: +140% (CLV × FTD - custo total)",
+        title: "Experiência de Jogo Interativa",
+        description: "Vídeos de animação da roleta de 30 segundos com mecânica realista de bolinha branca girando. Ciclos operacionais completos de 5 minutos com cronômetros, criando emoção de cassino em ambiente de metrô.",
         number: "03"
       },
       {
-        title: "Operação e Compliance - Força Total, Risco Zero",
-        description: "Legal: Registro SPA/MF (40d), alvará SMUL, termos LGPD | Equipe: 1 coordenador, 4 promotores, 2 técnicos, 2 seguranças | Tecnologia: Sistema local offline, 4 totens 55″, impressora tickets, telas winners | Comunicação: Vídeos e trilha sonora para chamar; promotores reforçam convite",
+        title: "Sistema de Distribuição de Prêmios",
+        description: "Balcão de cumprimento imediato de recompensas com inventário abrangente: fones Bluetooth (número exato), copos Betano (acerto de cor), cordões celular (par/ímpar) e chaveiros exclusivos. 100% dos participantes recebem prêmios.",
         number: "04"
       },
       {
-        title: "Integração JCDecaux & Estande LED",
-        description: "Painel central (1h/dia): Roleta gigante visível de toda estação, vídeo clímax pré-renderizado 30s | Painel LED estande (6h): Espelha resultados, mantém show o dia todo | Cenografia imersiva: Luzes dinâmicas, totem cadastro ultrarrápido, balcão prêmios iluminado",
+        title: "Operação de Equipe Profissional",
+        description: "Solução completa de pessoal: 1 coordenador, 4 promotores com tablets para convite ativo, 2 técnicos para gestão do sistema e 2 seguranças. Controle total de fluxo e gestão da jornada do participante.",
         number: "05"
       },
       {
-        title: "Detalhamento do Investimento",
-        description: "Produção & LED: R$250k | Tecnologia & software: R$140k | Prêmios: R$400k | Equipe (7d): R$45k | Licenças & taxas: R$20k | Amplificação digital: R$50k | Admin & seguros: R$30k | Subtotal: R$935k | Contingência 15%: R$140k | Fee agência 18%: R$174k | TOTAL: ≈R$1.250.000",
+        title: "Compliance e Marco Legal",
+        description: "Conformidade regulatória completa incluindo registro SPA/MF, alvarás SMUL, termos de proteção de dados LGPD, verificação de idade (18+) e limite de 1 participação por CPF diária. Operação de risco legal zero.",
         number: "06"
       }
     ],
