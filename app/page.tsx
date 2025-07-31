@@ -856,7 +856,7 @@ export default function Home() {
                         <div className="caption text-white/60 mb-1">Client</div>
                         <div className="body-large font-sans">
                           <AdvancedTextAnimation delay={0.4} fontWeight="bold" type="fade">
-                            FORD / WIEDEN+KENNEDY
+                            BETANO / WIEDEN+KENNEDY
                           </AdvancedTextAnimation>
                         </div>
                       </div>
