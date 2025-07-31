@@ -208,7 +208,7 @@ export const translations = {
     
     proposal2Label: "TOTAL VALUE", 
     proposal2Title: "Investimento sob consulta",
-    proposal2Subtitle: "Value includes contingency (15%) and agency fee (18%)",
+    proposal2Subtitle: "",
     proposal2Items: [
       "Complete technical and creative development of roulette activation system",
       "6 hours daily activation operation at Sé Metro Station with professional management",
@@ -497,7 +497,7 @@ export const translations = {
     
     proposal2Label: "VALOR TOTAL",
     proposal2Title: "Investimento sob consulta", 
-    proposal2Subtitle: "Valor inclui contingência (15%) e fee agência (18%)",
+    proposal2Subtitle: "",
     proposal2Items: [
       "Desenvolvimento técnico e criativo completo do sistema de ativação de roleta",
       "Operação diária de ativação de 6 horas na Estação Sé do Metrô com gestão profissional",
